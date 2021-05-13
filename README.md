@@ -1,1182 +1,1789 @@
 #EXTM3U
 
-#EXTINF:-1,A&E HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143162
-#EXTINF:-1,A&E SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143163
-#EXTINF:-1,All Sports DF
-http://yakisoba-delivery.xyz:80/adriano/102030/143461
-#EXTINF:-1,AMC FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143571
-#EXTINF:-1,AMC HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143164
-#EXTINF:-1,AMC SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143165
-#EXTINF:-1,Animal Planet FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143572
-#EXTINF:-1,Animal Planet HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143106
-#EXTINF:-1,Animal Planet SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143107
-#EXTINF:-1,ARTE 1 FullHD¹(H.265)
-http://yakisoba-delivery.xyz:80/adriano/102030/143573
-#EXTINF:-1,AXN FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143574
-#EXTINF:-1,AXN HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143166
-#EXTINF:-1,AXN SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143167
-#EXTINF:-1,BabyTV HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143305
-#EXTINF:-1,BabyTV SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143306
-#EXTINF:-1,Band Campinas HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143676
-#EXTINF:-1,BAND FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143728
-#EXTINF:-1,Band HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143677
-#EXTINF:-1,Band News FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143575
-#EXTINF:-1,Band News HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143336
-#EXTINF:-1,Band News SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143337
-#EXTINF:-1,Band Nordeste SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143678
-#EXTINF:-1,BAND PARANA HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143729
-#EXTINF:-1,BAND RJ HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143436
+
+#EXTINF:-1,BR: A&E HD
+http://163.172.103.202:8880/287994003724/287994003724/30883
+#EXTINF:-1,BR: AMC HD
+http://163.172.103.202:8880/287994003724/287994003724/30884
+#EXTINF:-1,BR: ANIMAL PLANET HD
+http://163.172.103.202:8880/287994003724/287994003724/30885
+#EXTINF:-1,BR: ARTE 1 HD
+http://163.172.103.202:8880/287994003724/287994003724/30886
+#EXTINF:-1,BR: AXN HD
+http://163.172.103.202:8880/287994003724/287994003724/30887
+#EXTINF:-1,BR: BABY TV HD
+http://163.172.103.202:8880/287994003724/287994003724/30888
+#EXTINF:-1,BR: BAND NEWS HD
+http://163.172.103.202:8880/287994003724/287994003724/30889
+#EXTINF:-1,BR: BAND SP HD
+http://163.172.103.202:8880/287994003724/287994003724/30890
+#EXTINF:-1,BR: BAND SPORTS HD
+http://163.172.103.202:8880/287994003724/287994003724/30891
+#EXTINF:-1,BR: BIS HD
+http://163.172.103.202:8880/287994003724/287994003724/30892
+#EXTINF:-1,BR: BOOMERANG HD
+http://163.172.103.202:8880/287994003724/287994003724/30893
+#EXTINF:-1,BR: BOOMERANG SD
+http://163.172.103.202:8880/287994003724/287994003724/30894
+#EXTINF:-1,BR: Can??o Nova
+http://163.172.103.202:8880/287994003724/287994003724/30895
+#EXTINF:-1,BR: CARTOON NETWORK HD
+http://163.172.103.202:8880/287994003724/287994003724/30896
+#EXTINF:-1,BR: CINEMAX HD
+http://163.172.103.202:8880/287994003724/287994003724/30897
+#EXTINF:-1,BR: CINE 1
+http://163.172.103.202:8880/287994003724/287994003724/30898
+#EXTINF:-1,BR: CINE 2
+http://163.172.103.202:8880/287994003724/287994003724/30899
+#EXTINF:-1,BR: CINE 3
+http://163.172.103.202:8880/287994003724/287994003724/30900
+#EXTINF:-1,BR: CINE 4
+http://163.172.103.202:8880/287994003724/287994003724/30901
+#EXTINF:-1,BR: CINE 5
+http://163.172.103.202:8880/287994003724/287994003724/30902
+#EXTINF:-1,BR: CINE 6
+http://163.172.103.202:8880/287994003724/287994003724/30903
+#EXTINF:-1,BR: CINE 7
+http://163.172.103.202:8880/287994003724/287994003724/30904
+#EXTINF:-1,BR: CINE 8
+http://163.172.103.202:8880/287994003724/287994003724/30905
+#EXTINF:-1,BR: COMBATE HD
+http://163.172.103.202:8880/287994003724/287994003724/30906
+#EXTINF:-1,BR: COMEDY CENTRAL HD
+http://163.172.103.202:8880/287994003724/287994003724/30907
+#EXTINF:-1,BR: CAMPEONATO CARIOCA 1 HD
+http://163.172.103.202:8880/287994003724/287994003724/30908
+#EXTINF:-1,BR: CAMPEONATO CARIOCA 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/30909
+#EXTINF:-1,BR: COPA LIBERTADORES 1 HD
+http://163.172.103.202:8880/287994003724/287994003724/30910
+#EXTINF:-1,BR COPA LIBERTADORES 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/30911
+#EXTINF:-1,BR: COPA DO NORDESTE 1 HD
+http://163.172.103.202:8880/287994003724/287994003724/30912
+#EXTINF:-1,BR: COPA DO NORDESTE 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/30913
+#EXTINF:-1,BR: CAMPEONATO BAIANO 2021
+http://163.172.103.202:8880/287994003724/287994003724/30914
+#EXTINF:-1,BR: CAMPEONATO BAIANO 2021 2
+http://163.172.103.202:8880/287994003724/287994003724/30915
+#EXTINF:-1,BR: CAMPEONATO SERGIPANO HD
+http://163.172.103.202:8880/287994003724/287994003724/30916
+#EXTINF:-1,BR: CULTURA HD
+http://163.172.103.202:8880/287994003724/287994003724/30917
+#EXTINF:-1,BR: CURTA! HD
+http://163.172.103.202:8880/287994003724/287994003724/30918
+#EXTINF:-1,BR: DAZN 1 HD
+http://163.172.103.202:8880/287994003724/287994003724/30919
+#EXTINF:-1,BR: DAZN 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/30920
+#EXTINF:-1,BR: DISCOVERY CHANNEL HD
+http://163.172.103.202:8880/287994003724/287994003724/30921
+#EXTINF:-1,BR: DISCOVERY CHANNEL SD
+http://163.172.103.202:8880/287994003724/287994003724/30922
+#EXTINF:-1,BR: DISCOVERY HOME & HEALTH HD
+http://163.172.103.202:8880/287994003724/287994003724/30923
+#EXTINF:-1,BR: DISCOVERY KIDS HD
+http://163.172.103.202:8880/287994003724/287994003724/30924
+#EXTINF:-1,BR: DISCOVERY SCIENCE HD
+http://163.172.103.202:8880/287994003724/287994003724/30925
+#EXTINF:-1,BR: DISCOVERY THEATER HD
+http://163.172.103.202:8880/287994003724/287994003724/30926
+#EXTINF:-1,BR: DISCOVERY TLC HD
+http://163.172.103.202:8880/287994003724/287994003724/30927
+#EXTINF:-1,BR: DISCOVERY TURBO HD
+http://163.172.103.202:8880/287994003724/287994003724/30928
+#EXTINF:-1,BR: DISCOVERY WORLD HD
+http://163.172.103.202:8880/287994003724/287994003724/30929
+#EXTINF:-1,BR: DISNEY CHANNEL HD
+http://163.172.103.202:8880/287994003724/287994003724/30930
+#EXTINF:-1,BR: DISNEY JR HD
+http://163.172.103.202:8880/287994003724/287994003724/30931
+#EXTINF:-1,BR: DISNEY XD HD
+http://163.172.103.202:8880/287994003724/287994003724/30932
+#EXTINF:-1,BR: E! HD
+http://163.172.103.202:8880/287994003724/287994003724/30933
+#EXTINF:-1,BR: EI PLUS 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/30934
+#EXTINF:-1,BR: EI PLUS 3 HD
+http://163.172.103.202:8880/287994003724/287994003724/30935
+#EXTINF:-1,BR: EI PLUS 4 HD
+http://163.172.103.202:8880/287994003724/287994003724/30936
+#EXTINF:-1,BR: ESPN  HD
+http://163.172.103.202:8880/287994003724/287994003724/30937
+#EXTINF:-1,BR: ESPN 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/30938
+#EXTINF:-1,BR: ESPN BRASIL HD
+http://163.172.103.202:8880/287994003724/287994003724/30939
+#EXTINF:-1,BR: FISH TV HD
+http://163.172.103.202:8880/287994003724/287994003724/30940
+#EXTINF:-1,BR: FOOD NETWORK HD
+http://163.172.103.202:8880/287994003724/287994003724/30941
+#EXTINF:-1,BR: FOX HD
+http://163.172.103.202:8880/287994003724/287994003724/30942
+#EXTINF:-1,BR: FOX LIFE HD
+http://163.172.103.202:8880/287994003724/287994003724/30943
+#EXTINF:-1,BR: FOX PREMIUM 1 HD
+http://163.172.103.202:8880/287994003724/287994003724/30944
+#EXTINF:-1,BR: FOX PREMIUM 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/30945
+#EXTINF:-1,BR: FOX SPORTS 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/30946
+#EXTINF:-1,BR: FOX SPORTS HD
+http://163.172.103.202:8880/287994003724/287994003724/30947
+#EXTINF:-1,BR: FUTURA HD
+http://163.172.103.202:8880/287994003724/287994003724/30948
+#EXTINF:-1,BR: FX HD
+http://163.172.103.202:8880/287994003724/287994003724/30949
+#EXTINF:-1,BR: GLOBO EPTV CAMPINAS HD
+http://163.172.103.202:8880/287994003724/287994003724/30950
+#EXTINF:-1,BR: GLOBO MINAS HD
+http://163.172.103.202:8880/287994003724/287994003724/30951
+#EXTINF:-1,BR: GLOBO NEWS HD
+http://163.172.103.202:8880/287994003724/287994003724/30952
+#EXTINF:-1,BR: GLOBO NORDESTE HD
+http://163.172.103.202:8880/287994003724/287994003724/30953
+#EXTINF:-1,BR: GLOBO NSC FLORIANOPOLIS HD
+http://163.172.103.202:8880/287994003724/287994003724/30954
+#EXTINF:-1,BR: GLOBO RJ HD
+http://163.172.103.202:8880/287994003724/287994003724/30955
+#EXTINF:-1,BR: GLOBO RPC TV HD
+http://163.172.103.202:8880/287994003724/287994003724/30956
+#EXTINF:-1,BR: GLOBO SP HD
+http://163.172.103.202:8880/287994003724/287994003724/30957
+#EXTINF:-1,BR: Globo TV Sergipe HD
+http://163.172.103.202:8880/287994003724/287994003724/30958
+#EXTINF:-1,BR: GLOBOSAT HD
+http://163.172.103.202:8880/287994003724/287994003724/30959
+#EXTINF:-1,BR: GLOOB HD
+http://163.172.103.202:8880/287994003724/287994003724/30960
+#EXTINF:-1,BR: GNT HD
+http://163.172.103.202:8880/287994003724/287994003724/30961
+#EXTINF:-1,BR: H2 HD
+http://163.172.103.202:8880/287994003724/287994003724/30962
+#EXTINF:-1,BR: HBO + PLUS HD
+http://163.172.103.202:8880/287994003724/287994003724/30963
+#EXTINF:-1,BR: HBO 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/30964
+#EXTINF:-1,BR: HBO FAMILY HD
+http://163.172.103.202:8880/287994003724/287994003724/30965
+#EXTINF:-1,BR: HBO HD
+http://163.172.103.202:8880/287994003724/287994003724/30966
+#EXTINF:-1,BR: HBO MUNDI HD
+http://163.172.103.202:8880/287994003724/287994003724/30967
+#EXTINF:-1,BR: HBO POP HD
+http://163.172.103.202:8880/287994003724/287994003724/30968
+#EXTINF:-1,BR: HBO SIGNATURE HD
+http://163.172.103.202:8880/287994003724/287994003724/30969
+#EXTINF:-1,BR: HBO XTREME HD
+http://163.172.103.202:8880/287994003724/287994003724/30970
+#EXTINF:-1,BR: HGTV HD
+http://163.172.103.202:8880/287994003724/287994003724/30971
+#EXTINF:-1,BR: HISTORY CHANNEL HD
+http://163.172.103.202:8880/287994003724/287994003724/30972
+#EXTINF:-1,BR: ID - INVESTIGA?AO DISCOVERY HD
+http://163.172.103.202:8880/287994003724/287994003724/30973
+#EXTINF:-1,BR: LIFETIME HD
+http://163.172.103.202:8880/287994003724/287994003724/30974
+#EXTINF:-1,BR: MEGAPIX HD
+http://163.172.103.202:8880/287994003724/287994003724/30975
+#EXTINF:-1,BR: MTV HD
+http://163.172.103.202:8880/287994003724/287994003724/30976
+#EXTINF:-1,BR: MULTISHOW HD
+http://163.172.103.202:8880/287994003724/287994003724/30977
+#EXTINF:-1,BR: NATGEO KIDS HD
+http://163.172.103.202:8880/287994003724/287994003724/30978
+#EXTINF:-1,BR: NATGEO WILD HD
+http://163.172.103.202:8880/287994003724/287994003724/30979
+#EXTINF:-1,BR: NATIONAL GEOGRAPHIC HD
+http://163.172.103.202:8880/287994003724/287994003724/30980
+#EXTINF:-1,BR: NICK JR HD
+http://163.172.103.202:8880/287994003724/287994003724/30981
+#EXTINF:-1,BR: NICKELODEON HD
+http://163.172.103.202:8880/287994003724/287994003724/30982
+#EXTINF:-1,BR: OFF HD
+http://163.172.103.202:8880/287994003724/287994003724/30983
+#EXTINF:-1,BR: PARAMOUNT CHANNEL HD
+http://163.172.103.202:8880/287994003724/287994003724/30984
+#EXTINF:-1,BR: PREMIERE 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/30985
+#EXTINF:-1,BR: PREMIERE 3 HD
+http://163.172.103.202:8880/287994003724/287994003724/30986
+#EXTINF:-1,BR: PREMIERE 4 HD
+http://163.172.103.202:8880/287994003724/287994003724/30987
+#EXTINF:-1,BR: PREMIERE 5 HD
+http://163.172.103.202:8880/287994003724/287994003724/30988
+#EXTINF:-1,BR: PREMIERE CLUBES HD
+http://163.172.103.202:8880/287994003724/287994003724/30989
+#EXTINF:-1,BR: RECORD CAMPINAS HD
+http://163.172.103.202:8880/287994003724/287994003724/30990
+#EXTINF:-1,BR: RECORD NEWS HD
+http://163.172.103.202:8880/287994003724/287994003724/30991
+#EXTINF:-1,BR: RECORD NORDESTE HD
+http://163.172.103.202:8880/287994003724/287994003724/30992
+#EXTINF:-1,BR: Record RJ
+http://163.172.103.202:8880/287994003724/287994003724/30993
+#EXTINF:-1,BR: RECORD SP HD
+http://163.172.103.202:8880/287994003724/287994003724/30994
+#EXTINF:-1,BR: REDE TV HD
+http://163.172.103.202:8880/287994003724/287994003724/30995
+#EXTINF:-1,BR: REDE VIDA HD
+http://163.172.103.202:8880/287994003724/287994003724/30996
+#EXTINF:-1,BR: SBT GOIAS HD
+http://163.172.103.202:8880/287994003724/287994003724/30997
+#EXTINF:-1,BR: SBT HD
+http://163.172.103.202:8880/287994003724/287994003724/30998
+#EXTINF:-1,BR: SBT NORDESTE HD
+http://163.172.103.202:8880/287994003724/287994003724/30999
+#EXTINF:-1,BR: Sbt RJ HD
+http://163.172.103.202:8880/287994003724/287994003724/31000
+#EXTINF:-1,BR: SONY HD
+http://163.172.103.202:8880/287994003724/287994003724/31001
+#EXTINF:-1,BR: SPACE HD
+http://163.172.103.202:8880/287994003724/287994003724/31002
+#EXTINF:-1,BR: SPORTV 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31003
+#EXTINF:-1,BR: SPORTV 3 HD
+http://163.172.103.202:8880/287994003724/287994003724/31004
+#EXTINF:-1,BR: SPORTV HD
+http://163.172.103.202:8880/287994003724/287994003724/31005
+#EXTINF:-1,BR: STUDIO UNIVERSAL HD
+http://163.172.103.202:8880/287994003724/287994003724/31006
+#EXTINF:-1,BR: SYFY HD
+http://163.172.103.202:8880/287994003724/287994003724/31007
+#EXTINF:-1,BR: TELECINE ACTION HD
+http://163.172.103.202:8880/287994003724/287994003724/31008
+#EXTINF:-1,BR: TELECINE CULT HD
+http://163.172.103.202:8880/287994003724/287994003724/31009
+#EXTINF:-1,BR: TELECINE FUN HD
+http://163.172.103.202:8880/287994003724/287994003724/31010
+#EXTINF:-1,BR: TELECINE PIPOCA HD
+http://163.172.103.202:8880/287994003724/287994003724/31011
+#EXTINF:-1,BR: TELECINE PREMIUM HD
+http://163.172.103.202:8880/287994003724/287994003724/31012
+#EXTINF:-1,BR: TELECINE TOUCH HD
+http://163.172.103.202:8880/287994003724/287994003724/31013
+#EXTINF:-1,BR: TNT HD
+http://163.172.103.202:8880/287994003724/287994003724/31014
+#EXTINF:-1,BR: TNT ESTADIO 1 HD
+http://163.172.103.202:8880/287994003724/287994003724/31015
+#EXTINF:-1,BR: TNT ESTADIO 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31016
+#EXTINF:-1,BR: TNT S?RIES HD
+http://163.172.103.202:8880/287994003724/287994003724/31017
+#EXTINF:-1,BR: TOONCAST HD
+http://163.172.103.202:8880/287994003724/287994003724/31018
+#EXTINF:-1,BR: UNIVERSAL CHANNEL HD
+http://163.172.103.202:8880/287994003724/287994003724/31019
+#EXTINF:-1,BR: VASCO TV HD
+http://163.172.103.202:8880/287994003724/287994003724/31020
+#EXTINF:-1,BR: VH1 HD
+http://163.172.103.202:8880/287994003724/287994003724/31021
+#EXTINF:-1,BR: VIVA HD
+http://163.172.103.202:8880/287994003724/287994003724/31022
+#EXTINF:-1,BR: WARNER CHANNEL HD
+http://163.172.103.202:8880/287994003724/287994003724/31023
+#EXTINF:-1,BR: WOOHOO HD
+http://163.172.103.202:8880/287994003724/287994003724/31024
+#EXTINF:-1,BR: ZOOMOO HD
+http://163.172.103.202:8880/287994003724/287994003724/31025
+#EXTINF:-1,BR:AXN  FULL HD
+http://163.172.103.202:8880/287994003724/287994003724/31026
+#EXTINF:-1,BR:Band RJ HD
+http://163.172.103.202:8880/287994003724/287994003724/31027
+#EXTINF:-1,BR:CNN Brasil HD
+http://163.172.103.202:8880/287994003724/287994003724/31028
+#EXTINF:-1,ANIMAL PLANET 4K
+http://163.172.103.202:8880/287994003724/287994003724/31029
+#EXTINF:-1,BAND 4K
+http://163.172.103.202:8880/287994003724/287994003724/31030
+#EXTINF:-1,CARTOON NETWORK 4K
+http://163.172.103.202:8880/287994003724/287994003724/31031
+#EXTINF:-1,COMBATE 4K
+http://163.172.103.202:8880/287994003724/287994003724/31032
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://163.172.103.202:8880/287994003724/287994003724/31033
+#EXTINF:-1,ESPN 4K
+http://163.172.103.202:8880/287994003724/287994003724/31034
+#EXTINF:-1,FOX SPORTS 2 4K
+http://163.172.103.202:8880/287994003724/287994003724/31035
+#EXTINF:-1,FOX SPORTS 4K
+http://163.172.103.202:8880/287994003724/287994003724/31036
+#EXTINF:-1,GAZETA 4K
+http://163.172.103.202:8880/287994003724/287994003724/31037
+#EXTINF:-1,GLOBO 4K
+http://163.172.103.202:8880/287994003724/287994003724/31038
+#EXTINF:-1,HBO
+http://163.172.103.202:8880/287994003724/287994003724/31039
+#EXTINF:-1,MEGAPIX 4K
+http://163.172.103.202:8880/287994003724/287994003724/31040
+#EXTINF:-1,MULTISHOW 4K
+http://163.172.103.202:8880/287994003724/287994003724/31041
+#EXTINF:-1,PREMIERE CLUBES
+http://163.172.103.202:8880/287994003724/287994003724/31042
+#EXTINF:-1,RECORDTV 4K
+http://163.172.103.202:8880/287994003724/287994003724/31043
+#EXTINF:-1,REDE TV 4K
+http://163.172.103.202:8880/287994003724/287994003724/31044
+#EXTINF:-1,SBT 4K
+http://163.172.103.202:8880/287994003724/287994003724/31045
+#EXTINF:-1,SPACE 4K
+http://163.172.103.202:8880/287994003724/287994003724/31046
+#EXTINF:-1,SPORTV 4K
+http://163.172.103.202:8880/287994003724/287994003724/31047
+#EXTINF:-1,STAR CHANNEL
+http://163.172.103.202:8880/287994003724/287994003724/31048
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://163.172.103.202:8880/287994003724/287994003724/31049
+#EXTINF:-1,TELECINE PREMIUM 4K
+http://163.172.103.202:8880/287994003724/287994003724/31050
+#EXTINF:-1,TNT 4K
+http://163.172.103.202:8880/287994003724/287994003724/31051
+#EXTINF:-1,TNT SERIES 4K
+http://163.172.103.202:8880/287994003724/287994003724/31052
+#EXTINF:-1,BAND RJ HD²
+http://163.172.103.202:8880/287994003724/287994003724/31053
+#EXTINF:-1,BAND RJ*
+http://163.172.103.202:8880/287994003724/287994003724/31054
+#EXTINF:-1,BAND RJ HD³
+http://163.172.103.202:8880/287994003724/287994003724/31055
 #EXTINF:-1,BAND RJ SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143437
-#EXTINF:-1,BAND SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143438
-#EXTINF:-1,Band SP FullHD (H.265)
-http://yakisoba-delivery.xyz:80/adriano/102030/143576
-#EXTINF:-1,BAND SPORTS FHD 
-http://yakisoba-delivery.xyz:80/adriano/102030/85313
-#EXTINF:-1,BAND SPORTS SD 
-http://yakisoba-delivery.xyz:80/adriano/102030/85243
-#EXTINF:-1,BIS FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/144862
-#EXTINF:-1,BIS HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143246
-#EXTINF:-1,BIS SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143247
-#EXTINF:-1,BLOOMBERG TV  HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143338
-#EXTINF:-1,BLOOMBERG TV  SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143339
-#EXTINF:-1,Boomerang FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143577
-#EXTINF:-1,Boomerang HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143307
-#EXTINF:-1,BOOMERANG SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143308
-#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO 1)
-http://yakisoba-delivery.xyz:80/adriano/102030/85115
-#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO2)
-http://yakisoba-delivery.xyz:80/adriano/102030/85116
-#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO3)
-http://yakisoba-delivery.xyz:80/adriano/102030/85117
-#EXTINF:-1,Canal 10 Foz do iguçu (Parana)
-http://yakisoba-delivery.xyz:80/adriano/102030/143510
-#EXTINF:-1,Canal Brasil SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143511
-#EXTINF:-1,Canal Promessas (Goias)
-http://yakisoba-delivery.xyz:80/adriano/102030/143512
-#EXTINF:-1,Canção Nova  HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143286
-#EXTINF:-1,Canção Nova SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143287
-#EXTINF:-1,Capital TV
-http://yakisoba-delivery.xyz:80/adriano/102030/143248
-#EXTINF:-1,Cartoon Network  SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143310
-#EXTINF:-1,Cartoon Network FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143578
-#EXTINF:-1,Cartoon Network HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143309
-#EXTINF:-1,CBS News HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143340
-#EXTINF:-1,CBS News SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143341
-#EXTINF:-1,CBTV Now
-http://yakisoba-delivery.xyz:80/adriano/102030/143513
-#EXTINF:-1,CCTV
-http://yakisoba-delivery.xyz:80/adriano/102030/143342
-#EXTINF:-1,CCTV Notícias
-http://yakisoba-delivery.xyz:80/adriano/102030/143343
-#EXTINF:-1,CEAK TV ESPRITA SP
-http://yakisoba-delivery.xyz:80/adriano/102030/143288
-#EXTINF:-1,Central TV
-http://yakisoba-delivery.xyz:80/adriano/102030/143514
-#EXTINF:-1,CINE PIPOCA 03
-http://yakisoba-delivery.xyz:80/adriano/102030/143216
-#EXTINF:-1,CINE PIPOCA 05
-http://yakisoba-delivery.xyz:80/adriano/102030/143214
-#EXTINF:-1,Cinemax FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143579
-#EXTINF:-1,Cinemax HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143168
-#EXTINF:-1,Cinemax SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143169
-#EXTINF:-1,CLASSIQUE FILMES
-http://yakisoba-delivery.xyz:80/adriano/102030/143235
-#EXTINF:-1,CNN BRASIL FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143567
-#EXTINF:-1,CNN BRASIL HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143344
-#EXTINF:-1,CNN Brasil SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143345
-#EXTINF:-1,Combate FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143580
-#EXTINF:-1,Combate HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143462
-#EXTINF:-1,Combate SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143463
-#EXTINF:-1,Comedy Central FullHD¹(H.265)
-http://yakisoba-delivery.xyz:80/adriano/102030/143581
-#EXTINF:-1,Comedy Central SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143250
-#EXTINF:-1,CONMEBOL TV (JOGO 1)
-http://yakisoba-delivery.xyz:80/adriano/102030/119777
-#EXTINF:-1,CONMEBOL TV (JOGO 2)
-http://yakisoba-delivery.xyz:80/adriano/102030/119778
-#EXTINF:-1,CONMEBOL TV (JOGO 3)
-http://yakisoba-delivery.xyz:80/adriano/102030/119780
-#EXTINF:-1,CONMEBOL TV (JOGO 4)
-http://yakisoba-delivery.xyz:80/adriano/102030/109538
-#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 2)
-http://yakisoba-delivery.xyz:80/adriano/102030/85255
-#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 3)
-http://yakisoba-delivery.xyz:80/adriano/102030/85256
-#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 4)
-http://yakisoba-delivery.xyz:80/adriano/102030/85257
-#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO1)
-http://yakisoba-delivery.xyz:80/adriano/102030/85254
-#EXTINF:-1,COPA NORDESTE
-http://yakisoba-delivery.xyz:80/adriano/102030/82199
-#EXTINF:-1,Cultura HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143439
-#EXTINF:-1,Cultura Pará
-http://yakisoba-delivery.xyz:80/adriano/102030/143515
-#EXTINF:-1,Cultura SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143440
-#EXTINF:-1,DAZN 01 HD 
-http://yakisoba-delivery.xyz:80/adriano/102030/85258
-#EXTINF:-1,DAZN 02 HD 
-http://yakisoba-delivery.xyz:80/adriano/102030/85262
-#EXTINF:-1,DAZN 03 HD 
-http://yakisoba-delivery.xyz:80/adriano/102030/85260
-#EXTINF:-1,DAZN 04 HD 
-http://yakisoba-delivery.xyz:80/adriano/102030/85263
-#EXTINF:-1,DISCOVERY CHANNEL FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/144849
-#EXTINF:-1,Discovery Channel HD
-http://yakisoba-delivery.xyz:80/adriano/102030/144848
-#EXTINF:-1,Discovery Channel SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143109
-#EXTINF:-1,Discovery Home & Health FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143583
-#EXTINF:-1,Discovery Home & Health HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143110
-#EXTINF:-1,Discovery Home & Health SD
-http://yakisoba-delivery.xyz:80/adriano/102030/150991
-#EXTINF:-1,Discovery Kids FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143584
-#EXTINF:-1,Discovery Kids HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143311
-#EXTINF:-1,Discovery Kids SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143303
-#EXTINF:-1,Discovery Science FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143585
-#EXTINF:-1,Discovery Science HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143114
-#EXTINF:-1,Discovery Science SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143115
-#EXTINF:-1,DISCOVERY THEATER FHD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30940
-#EXTINF:-1,Discovery Theater FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143586
-#EXTINF:-1,Discovery Theater HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143116
-#EXTINF:-1,DISCOVERY THEATER HD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30941
-#EXTINF:-1,Discovery Theater SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143117
-#EXTINF:-1,Discovery Turbo FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143587
-#EXTINF:-1,Discovery Turbo HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143118
-#EXTINF:-1,Discovery Turbo SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143119
-#EXTINF:-1,Discovery World FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143588
-#EXTINF:-1,Discovery World HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143120
-#EXTINF:-1,Discovery World SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143121
-#EXTINF:-1,Disney Channel FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143589
-#EXTINF:-1,Disney Channel HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143312
-#EXTINF:-1,DISNEY CHANNEL SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143313
-#EXTINF:-1,DISNEY JR FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143314
-#EXTINF:-1,DISNEY JR HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143590
-#EXTINF:-1,DISNEY JR SD
-http://yakisoba-delivery.xyz:80/adriano/102030/144841
-#EXTINF:-1,DISNEY XD  FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143591
-#EXTINF:-1,DISNEY XD HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143315
-#EXTINF:-1,Disney XD SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143316
-#EXTINF:-1,DJing
-http://yakisoba-delivery.xyz:80/adriano/102030/143253
-#EXTINF:-1,DJing Animation
-http://yakisoba-delivery.xyz:80/adriano/102030/143254
-#EXTINF:-1,EI PLUS 1 FHD 2 
-http://yakisoba-delivery.xyz:80/adriano/102030/111900
-#EXTINF:-1,EI PLUS FHD 
-http://yakisoba-delivery.xyz:80/adriano/102030/85068
-#EXTINF:-1,EI PLUS SD 
-http://yakisoba-delivery.xyz:80/adriano/102030/85069
-#EXTINF:-1,ESPN 2 FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143592
-#EXTINF:-1,ESPN 2 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/144844
-#EXTINF:-1,ESPN 2 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/144845
-#EXTINF:-1,ESPN Brasil FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/145864
-#EXTINF:-1,Espn Brasil HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145866
-#EXTINF:-1,Espn Brasil SD
-http://yakisoba-delivery.xyz:80/adriano/102030/145865
-#EXTINF:-1,ESPN EXTRA FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143467
-#EXTINF:-1,ESPN EXTRA HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143466
-#EXTINF:-1,ESPN FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143594
-#EXTINF:-1,ESPN HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143468
-#EXTINF:-1,ESPN SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143469
-#EXTINF:-1,Espn2  HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143470
-#EXTINF:-1,Espn2  SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143471
-#EXTINF:-1,FashionTV SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143257
-#EXTINF:-1,FILM & ART FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/144840
-#EXTINF:-1,Film & Arts HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143170
-#EXTINF:-1,Film & Arts SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143171
-#EXTINF:-1,FISH TV FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143472
-#EXTINF:-1,FISH TV SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143473
-#EXTINF:-1,FLUTV
-http://yakisoba-delivery.xyz:80/adriano/102030/80718
-#EXTINF:-1,Food Network FullHD¹(H.265)
-http://yakisoba-delivery.xyz:80/adriano/102030/143595
-#EXTINF:-1,Fox  FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143596
-#EXTINF:-1,FOX  HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143172
-#EXTINF:-1,FOX  SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143179
-#EXTINF:-1,FOX HITS
-http://yakisoba-delivery.xyz:80/adriano/102030/143260
-#EXTINF:-1,FOX LIFE FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/144839
-#EXTINF:-1,FOX Life HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143173
-#EXTINF:-1,FOX LIFE SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143174
-#EXTINF:-1,FOX Premium 1 FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143597
-#EXTINF:-1,Fox Premium 1 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143175
-#EXTINF:-1,FOX PREMIUM 1 HD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30944
-#EXTINF:-1,FOX PREMIUM 1 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143176
-#EXTINF:-1,FOX Premium 2 FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143598
-#EXTINF:-1,Fox Premium 2 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143177
-#EXTINF:-1,FOX PREMIUM 2 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143178
-#EXTINF:-1,Fox Sports 2 FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143599
-#EXTINF:-1,Fox Sports 2 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143474
-#EXTINF:-1,FOX SPORTS 2 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143475
-#EXTINF:-1,Fox Sports FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143600
-#EXTINF:-1,Fox Sports HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143476
-#EXTINF:-1,FOX SPORTS SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143477
-#EXTINF:-1,Futura HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143441
-#EXTINF:-1,Futura SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143442
-#EXTINF:-1,FX FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143601
-#EXTINF:-1,FX HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143180
-#EXTINF:-1,FX SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143181
-#EXTINF:-1,GLOBO  FLORIANOPOLIS HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143715
-#EXTINF:-1,GLOBO  NSC JOINVILLE SC HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143725
-#EXTINF:-1,Globo Anhanguera Goiania SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143352
-#EXTINF:-1,GLOBO BELEM HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143719
-#EXTINF:-1,GLOBO BH HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143726
-#EXTINF:-1,GLOBO BRASILIA HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143714
-#EXTINF:-1,Globo BRASILIA HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145005
-#EXTINF:-1,Globo Brasilia SD
-http://yakisoba-delivery.xyz:80/adriano/102030/145016
-#EXTINF:-1,Globo Centro America SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143353
-#EXTINF:-1,GLOBO CURITIBA HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143713
-#EXTINF:-1,Globo DF SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143354
-#EXTINF:-1,GLOBO EPTV CAMPINAS FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/145014
-#EXTINF:-1,Globo EPTV Campinas HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143355
-#EXTINF:-1,Globo EPTV Campinas SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143356
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143602
-#EXTINF:-1,Globo EPTV Ribeirão Preto SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143357
-#EXTINF:-1,Globo EPTV Sao Carlos SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143358
-#EXTINF:-1,Globo ES HD¹
-http://yakisoba-delivery.xyz:80/adriano/102030/143359
-#EXTINF:-1,GLOBO ES SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143360
-#EXTINF:-1,GLOBO GAZETA SUL ALEGRE ES HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143723
-#EXTINF:-1,GLOBO GOIANIA HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143720
-#EXTINF:-1,Globo INTER TV Cabugi RN SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143361
-#EXTINF:-1,Globo Internacional HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145008
-#EXTINF:-1,Globo Internacional SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143362
-#EXTINF:-1,Globo InterTV Alto Litoral HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143363
-#EXTINF:-1,Globo InterTV Serra Mar SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143364
-#EXTINF:-1,Globo Itapetininga SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143365
-#EXTINF:-1,Globo Manaus HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143366
-#EXTINF:-1,GLOBO MANAUS HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143722
-#EXTINF:-1,GLOBO MATO GROSSO HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143717
-#EXTINF:-1,GLOBO MG HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143367
-#EXTINF:-1,GLOBO MG SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143368
-#EXTINF:-1,Globo Minas HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145004
-#EXTINF:-1,GLOBO MINAS SD
-http://yakisoba-delivery.xyz:80/adriano/102030/145017
-#EXTINF:-1,Globo News FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143603
-#EXTINF:-1,GLOBO NEWS HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143346
-#EXTINF:-1,Globo News SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143347
-#EXTINF:-1,Globo Nordeste HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143369
-#EXTINF:-1,Globo Nordeste SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143370
-#EXTINF:-1,Globo NSC Blumenau SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143371
-#EXTINF:-1,Globo NSC Florianopolis HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143372
-#EXTINF:-1,Globo NSC Florianpolis FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143604
-#EXTINF:-1,Globo Paraiba HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145002
-#EXTINF:-1,GLOBO PORTO ALEGRE  HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143716
-#EXTINF:-1,Globo RBS Porto Alegre SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143373
-#EXTINF:-1,Globo RBS TV Pelotas HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143374
-#EXTINF:-1,GLOBO RBS TV POA SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143375
-#EXTINF:-1,Globo RBS TV Porto Alegre FullHD¹
-http://yakisoba-delivery.xyz:80/adriano/102030/143605
-#EXTINF:-1,GLOBO RJ FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/145013
-#EXTINF:-1,GLOBO RJ HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145009
-#EXTINF:-1,Globo RJ SD
-http://yakisoba-delivery.xyz:80/adriano/102030/145018
-#EXTINF:-1,Globo RPC Parana SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143378
-#EXTINF:-1,Globo RPC TV CURITIBA SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143607
-#EXTINF:-1,Globo RPC TV HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143379
-#EXTINF:-1,Globo RPC TV SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143380
-#EXTINF:-1,GLOBO SALVADOR HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143721
-#EXTINF:-1,GLOBO SAO LUIS MA HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143718
-#EXTINF:-1,Globo Sergipe
-http://yakisoba-delivery.xyz:80/adriano/102030/143381
-#EXTINF:-1,Globo Sergipe HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145010
-#EXTINF:-1,GLOBO SP FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/144999
-#EXTINF:-1,Globo SP FullHD (H265)
-http://yakisoba-delivery.xyz:80/adriano/102030/143608
-#EXTINF:-1,GLOBO SP HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143382
-#EXTINF:-1,GLOBO SP HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143712
-#EXTINF:-1,Globo SP SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143383
-#EXTINF:-1,GLOBO TV Asa branca HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145001
-#EXTINF:-1,GLOBO TV BAHIA  FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/144866
-#EXTINF:-1,Globo TV Bahia FullHD (H.265)
-http://yakisoba-delivery.xyz:80/adriano/102030/143566
-#EXTINF:-1,Globo TV Bahia HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143384
-#EXTINF:-1,Globo TV Bahia HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143385
-#EXTINF:-1,Globo TV Belem
-http://yakisoba-delivery.xyz:80/adriano/102030/143386
-#EXTINF:-1,GLOBO TV CLUBE HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145000
-#EXTINF:-1,GLOBO TV CLUBE PI HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143724
-#EXTINF:-1,Globo TV Diario HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143387
-#EXTINF:-1,Globo TV Gazeta Sul ES HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143388
-#EXTINF:-1,GLOBO TV INTER CABUGI HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143727
-#EXTINF:-1,Globo TV Mirante HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143389
-#EXTINF:-1,GLOBO Tv Rio Sul HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145003
-#EXTINF:-1,GLOBO TV Santa Cruz TV Bahia HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145011
-#EXTINF:-1,GLOBO TV Subae HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145012
-#EXTINF:-1,Globo TV Tem Bauru SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143391
-#EXTINF:-1,Globo TV Tem Sorocaba SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143392
-#EXTINF:-1,Globo TV Tribuna Santos SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143393
-#EXTINF:-1,Globo TV Vanguarda SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143394
-#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143395
-#EXTINF:-1,Globo TV Vitoria ES HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143396
-#EXTINF:-1,GLOBO VITORIA ES FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/145007
-#EXTINF:-1,GLOBO VITORIA ES HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145015
-#EXTINF:-1,GLOBO VITORIA ES SD
-http://yakisoba-delivery.xyz:80/adriano/102030/145006
-#EXTINF:-1,Gloob FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143609
-#EXTINF:-1,Gloob HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143318
-#EXTINF:-1,Gloob SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143319
-#EXTINF:-1,Gloobinho FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143321
-#EXTINF:-1,Gloobinho HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143320
-#EXTINF:-1,GNT FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/144864
-#EXTINF:-1,GNT HD
-http://yakisoba-delivery.xyz:80/adriano/102030/144865
-#EXTINF:-1,GNT SD
-http://yakisoba-delivery.xyz:80/adriano/102030/144863
-#EXTINF:-1,H2 FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143610
-#EXTINF:-1,H2 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143122
-#EXTINF:-1,H2 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143123
-#EXTINF:-1,HBO  HD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30932
-#EXTINF:-1,HBO + PLUS HD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30931
-#EXTINF:-1,HBO 2 FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143611
-#EXTINF:-1,HBO 2 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143146
-#EXTINF:-1,HBO 2 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143147
-#EXTINF:-1,HBO Extreme FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143612
-#EXTINF:-1,HBO EXTREME HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143148
-#EXTINF:-1,HBO Extreme SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143149
-#EXTINF:-1,HBO Family FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143613
-#EXTINF:-1,HBO Family HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143150
-#EXTINF:-1,HBO FAMILY SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143151
-#EXTINF:-1,HBO FHD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30934
-#EXTINF:-1,HBO FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143614
-#EXTINF:-1,HBO HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143152
-#EXTINF:-1,HBO Mundi FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143615
-#EXTINF:-1,HBO Mundi HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143153
-#EXTINF:-1,HBO Mundi SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143154
-#EXTINF:-1,HBO PLUS + FHD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30935
-#EXTINF:-1,HBO PLUS + HD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30933
-#EXTINF:-1,HBO Plus HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143155
-#EXTINF:-1,HBO Plus SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143156
-#EXTINF:-1,HBO POP  HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143157
-#EXTINF:-1,HBO POP FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143616
-#EXTINF:-1,HBO POP SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143158
-#EXTINF:-1,HBO SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143159
-#EXTINF:-1,HBO SIGNATURA HD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30930
-#EXTINF:-1,HBO SIGNATURE  HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143160
-#EXTINF:-1,HBO Signature FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143617
-#EXTINF:-1,HGTV  FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143618
-#EXTINF:-1,HGTV HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143124
-#EXTINF:-1,HGTV SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143125
-#EXTINF:-1,History Channel FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143619
-#EXTINF:-1,History Channel HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143126
-#EXTINF:-1,History channel SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143127
-#EXTINF:-1,ID Discovery FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143620
-#EXTINF:-1,ID Discovery HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143112
-#EXTINF:-1,ID Discovery SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143113
-#EXTINF:-1,ITV - Canal Itu Tv SP SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143516
-#EXTINF:-1,IURD TV
-http://yakisoba-delivery.xyz:80/adriano/102030/143289
-#EXTINF:-1,Japi TV (Sao Paulo)
-http://yakisoba-delivery.xyz:80/adriano/102030/143517
-#EXTINF:-1,KRÓNOS MOVIE
-http://yakisoba-delivery.xyz:80/adriano/102030/143233
-#EXTINF:-1,Kuriakos Kids
-http://yakisoba-delivery.xyz:80/adriano/102030/143322
-#EXTINF:-1,Lifetime SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143264
-#EXTINF:-1,LIVE FC 01
-http://yakisoba-delivery.xyz:80/adriano/102030/82204
-#EXTINF:-1,LIVE FC 02
-http://yakisoba-delivery.xyz:80/adriano/102030/82205
-#EXTINF:-1,LIVE FC 03
-http://yakisoba-delivery.xyz:80/adriano/102030/82206
-#EXTINF:-1,LIVE FC 04
-http://yakisoba-delivery.xyz:80/adriano/102030/82207
-#EXTINF:-1,Live: Libertadores 01 (Sport.TV)
-http://yakisoba-delivery.xyz:80/adriano/102030/143478
-#EXTINF:-1,Live: Libertadores 02 (Sport.TV)
-http://yakisoba-delivery.xyz:80/adriano/102030/145867
-#EXTINF:-1,Megapix FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143621
-#EXTINF:-1,MEGAPIX HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143182
-#EXTINF:-1,Megapix SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143183
-#EXTINF:-1,MLB NETWORK
-http://yakisoba-delivery.xyz:80/adriano/102030/82030
-#EXTINF:-1,MTV Clipes
-http://yakisoba-delivery.xyz:80/adriano/102030/143267
-#EXTINF:-1,MTV FullHD¹(H.265)
-http://yakisoba-delivery.xyz:80/adriano/102030/143622
-#EXTINF:-1,Multishow FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143623
-#EXTINF:-1,Multishow HD
-http://yakisoba-delivery.xyz:80/adriano/102030/146663
-#EXTINF:-1,Multishow SD
-http://yakisoba-delivery.xyz:80/adriano/102030/146664
-#EXTINF:-1,Mundo TV
-http://yakisoba-delivery.xyz:80/adriano/102030/143270
-#EXTINF:-1,Music Top
-http://yakisoba-delivery.xyz:80/adriano/102030/143271
-#EXTINF:-1,NAT GEO KIDS FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143624
-#EXTINF:-1,Nat Geo Kids HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143304
-#EXTINF:-1,NAT GEO KIDS SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143323
-#EXTINF:-1,NATGEO WILD FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/144855
-#EXTINF:-1,NatGeo Wild HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143131
-#EXTINF:-1,NatGeo WILD SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143128
-#EXTINF:-1,National Geographic FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143626
-#EXTINF:-1,National Geographic HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143129
-#EXTINF:-1,National Geographic SD
-http://yakisoba-delivery.xyz:80/adriano/102030/144854
-#EXTINF:-1,NHK SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143348
-#EXTINF:-1,Nick JR FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143627
-#EXTINF:-1,Nick Jr HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143324
-#EXTINF:-1,NICK JR SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143325
-#EXTINF:-1,NICKELODEON FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143568
-#EXTINF:-1,Nickelodeon HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143326
-#EXTINF:-1,Nickelodeon SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143327
-#EXTINF:-1,NOVA CINEMA
-http://yakisoba-delivery.xyz:80/adriano/102030/143236
-#EXTINF:-1,NOVO TEMPO HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143290
-#EXTINF:-1,OFF FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/144847
-#EXTINF:-1,OFF HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143480
-#EXTINF:-1,OFF SD
-http://yakisoba-delivery.xyz:80/adriano/102030/144846
-#EXTINF:-1,Pai Eterno SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143291
-#EXTINF:-1,Paramount Channel FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143569
-#EXTINF:-1,Paramount Channel HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143184
-#EXTINF:-1,Play Kids
-http://yakisoba-delivery.xyz:80/adriano/102030/143328
-#EXTINF:-1,Premiere 1 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143481
-#EXTINF:-1,Premiere 2 FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143628
-#EXTINF:-1,Premiere 2 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143482
-#EXTINF:-1,Premiere 2 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143483
-#EXTINF:-1,Premiere 3 FullHD¹(H.265)
-http://yakisoba-delivery.xyz:80/adriano/102030/143629
-#EXTINF:-1,Premiere 3 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143484
-#EXTINF:-1,PREMIERE 3 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143485
-#EXTINF:-1,Premiere 4 FullHD (H.265)
-http://yakisoba-delivery.xyz:80/adriano/102030/143630
-#EXTINF:-1,Premiere 4 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143486
-#EXTINF:-1,Premiere 4 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143487
-#EXTINF:-1,Premiere 5 FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143631
-#EXTINF:-1,PREMIERE 5 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143488
-#EXTINF:-1,Premiere 5 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143489
-#EXTINF:-1,Premiere 6 FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143632
-#EXTINF:-1,Premiere 6 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143490
-#EXTINF:-1,Premiere 6 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143491
-#EXTINF:-1,Premiere 7 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143492
-#EXTINF:-1,Premiere 7 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143493
-#EXTINF:-1,PREMIERE 8 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143494
-#EXTINF:-1,Premiere 8 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143495
-#EXTINF:-1,PREMIERE 9 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143496
-#EXTINF:-1,Premiere Clubes FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143633
-#EXTINF:-1,Premiere Clubes HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143497
-#EXTINF:-1,Premiere Clubes SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143498
-#EXTINF:-1,Prime Box Brazil HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143272
-#EXTINF:-1,Radio U Music Clips
-http://yakisoba-delivery.xyz:80/adriano/102030/143273
-#EXTINF:-1,RAI ITALIA
-http://yakisoba-delivery.xyz:80/adriano/102030/82043
-#EXTINF:-1,RAI NEWS 24
-http://yakisoba-delivery.xyz:80/adriano/102030/82029
-#EXTINF:-1,RATIMBUM HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143330
-#EXTINF:-1,RATIMBUM SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143329
-#EXTINF:-1,Record  Itapoan HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143661
-#EXTINF:-1,RECORD BA HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143443
-#EXTINF:-1,RECORD BA SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143444
-#EXTINF:-1,Record Campinas HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143662
-#EXTINF:-1,Record Campinas SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143445
-#EXTINF:-1,Record DF HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143663
-#EXTINF:-1,Record DF HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143664
-#EXTINF:-1,Record Goias (Goiania) HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143446
-#EXTINF:-1,Record Goias SD (TV Sucesso-Jatai-go)
-http://yakisoba-delivery.xyz:80/adriano/102030/143665
-#EXTINF:-1,Record Itapoan SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143447
-#EXTINF:-1,Record Manaus HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143448
-#EXTINF:-1,Record MG HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143667
-#EXTINF:-1,Record News FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143634
-#EXTINF:-1,Record News HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143349
-#EXTINF:-1,Record News SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143350
-#EXTINF:-1,Record Nordeste HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143435
-#EXTINF:-1,Record PA HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143668
-#EXTINF:-1,Record RJ HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143670
-#EXTINF:-1,RECORD RS HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143671
-#EXTINF:-1,Record RS HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143672
-#EXTINF:-1,Record SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143666
-#EXTINF:-1,Record SP HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143673
-#EXTINF:-1,Record SP SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143674
-#EXTINF:-1,Record TV Vitoria SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143675
-#EXTINF:-1,Red Bull TV OPÇÃO 1
-http://yakisoba-delivery.xyz:80/adriano/102030/143500
-#EXTINF:-1,Red Bull TV OPÇÃO 2
-http://yakisoba-delivery.xyz:80/adriano/102030/143501
-#EXTINF:-1,Rede Brasil SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143518
-#EXTINF:-1,Rede Caxias (Rio de Janeiro)
-http://yakisoba-delivery.xyz:80/adriano/102030/143519
-#EXTINF:-1,Rede Metropolitana (Minas Gerais)
-http://yakisoba-delivery.xyz:80/adriano/102030/143520
-#EXTINF:-1,REDE MINAS
-http://yakisoba-delivery.xyz:80/adriano/102030/143521
-#EXTINF:-1,Rede Premium
-http://yakisoba-delivery.xyz:80/adriano/102030/143522
-#EXTINF:-1,REDE RC
-http://yakisoba-delivery.xyz:80/adriano/102030/143508
-#EXTINF:-1,Rede Super HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143293
-#EXTINF:-1,Rede Super SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143292
-#EXTINF:-1,Rede TV Sul (Santa Catarina)
-http://yakisoba-delivery.xyz:80/adriano/102030/143523
-#EXTINF:-1,Rede Vida HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143294
-#EXTINF:-1,Rede Vida SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143295
-#EXTINF:-1,RedeTV HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143449
-#EXTINF:-1,RedeTV SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143450
-#EXTINF:-1,RedeTV! FullHD  (h.265)
-http://yakisoba-delivery.xyz:80/adriano/102030/143635
-#EXTINF:-1,RETRO MUSIC HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143274
-#EXTINF:-1,Retro Plus
-http://yakisoba-delivery.xyz:80/adriano/102030/143275
-#EXTINF:-1,Retrô Cartoon
-http://yakisoba-delivery.xyz:80/adriano/102030/143331
-#EXTINF:-1,RIT TV
-http://yakisoba-delivery.xyz:80/adriano/102030/143296
-#EXTINF:-1,Rock TV
-http://yakisoba-delivery.xyz:80/adriano/102030/143276
-#EXTINF:-1,SBT BSB HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145035
-#EXTINF:-1,SBT ES FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/145034
-#EXTINF:-1,SBT ES HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145040
-#EXTINF:-1,SBT ES SD
-http://yakisoba-delivery.xyz:80/adriano/102030/145039
-#EXTINF:-1,SBT FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143636
-#EXTINF:-1,SBT Goias HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143654
-#EXTINF:-1,SBT MA
-http://yakisoba-delivery.xyz:80/adriano/102030/143660
-#EXTINF:-1,SBT Nordeste FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143637
-#EXTINF:-1,SBT Nordeste HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143655
-#EXTINF:-1,SBT Parana HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145042
-#EXTINF:-1,SBT RJ FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/145045
-#EXTINF:-1,SBT RJ HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145044
-#EXTINF:-1,SBT RS HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145036
-#EXTINF:-1,SBT Santa Catarina  HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143451
-#EXTINF:-1,SBT SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143452
-#EXTINF:-1,SBT SD
-http://yakisoba-delivery.xyz:80/adriano/102030/145046
-#EXTINF:-1,SBT Sergipe -Tv Aperiper HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145037
-#EXTINF:-1,SBT SP HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143657
-#EXTINF:-1,SBT SP SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143658
-#EXTINF:-1,SBT Tv Alterosa HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145041
-#EXTINF:-1,SBT TV Aratu HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145038
-#EXTINF:-1,SBT TV Cidade Verde Piaui SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143659
-#EXTINF:-1,SBT TV Jornal Pernambuco SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143453
-#EXTINF:-1,SBT Tv Serra Dourada HD
-http://yakisoba-delivery.xyz:80/adriano/102030/145033
-#EXTINF:-1,SBT-MG-Tv Alterosa FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/145043
-#EXTINF:-1,Sexy KpopTV
-http://yakisoba-delivery.xyz:80/adriano/102030/143277
-#EXTINF:-1,SMITHSONIAN CHANNEL HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143638
-#EXTINF:-1,Sony FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143639
-#EXTINF:-1,Sony HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143186
-#EXTINF:-1,Sony SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143187
-#EXTINF:-1,Space FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143640
-#EXTINF:-1,Space HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143188
-#EXTINF:-1,Space SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143189
-#EXTINF:-1,SporTV 2 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143502
-#EXTINF:-1,SporTV 2 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143503
-#EXTINF:-1,SporTV 3 HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143504
-#EXTINF:-1,SporTV 3 SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143505
-#EXTINF:-1,SPORTV HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143506
-#EXTINF:-1,SporTV SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143507
-#EXTINF:-1,Studio Universal FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143641
-#EXTINF:-1,Studio Universal HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143190
-#EXTINF:-1,Studio Universal SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143191
-#EXTINF:-1,SUMMER TV SP
-http://yakisoba-delivery.xyz:80/adriano/102030/143524
-#EXTINF:-1,SYFY FHD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30927
-#EXTINF:-1,Syfy FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143642
-#EXTINF:-1,Syfy HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143192
-#EXTINF:-1,SYFY HD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30928
-#EXTINF:-1,Syfy SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143193
-#EXTINF:-1,TBS HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143194
-#EXTINF:-1,TBS SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143195
-#EXTINF:-1,TCM HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143196
-#EXTINF:-1,TCM SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143197
-#EXTINF:-1,Telecine Action FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143643
-#EXTINF:-1,Telecine Action HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143134
-#EXTINF:-1,TELECINE ACTION SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143135
-#EXTINF:-1,TELECINE CULT FHD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30939
-#EXTINF:-1,Telecine Cult FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143644
-#EXTINF:-1,Telecine Cult HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143136
-#EXTINF:-1,TELECINE CULT HD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30938
-#EXTINF:-1,TELECINE CULT SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143137
-#EXTINF:-1,Telecine Fun FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143645
-#EXTINF:-1,TELECINE FUN HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143138
-#EXTINF:-1,Telecine Fun SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143139
-#EXTINF:-1,TELECINE PIPOCA FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143646
-#EXTINF:-1,Telecine Pipoca HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143140
-#EXTINF:-1,Telecine Pipoca SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143141
-#EXTINF:-1,TELECINE PREMIUM FHD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30937
-#EXTINF:-1,Telecine Premium FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143647
-#EXTINF:-1,Telecine Premium HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143142
-#EXTINF:-1,TELECINE PREMIUM HD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30936
-#EXTINF:-1,Telecine Premium SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143143
-#EXTINF:-1,Telecine Touch FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143648
-#EXTINF:-1,TELECINE TOUCH HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143144
-#EXTINF:-1,Telecine Touch SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143145
-#EXTINF:-1,TLC FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/144856
-#EXTINF:-1,TLC HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143132
-#EXTINF:-1,TLC SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143133
-#EXTINF:-1,TNT FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143649
-#EXTINF:-1,TNT HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143198
-#EXTINF:-1,TNT SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143199
-#EXTINF:-1,TNT SÉRIES FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143650
-#EXTINF:-1,TNT SÉRIES HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143200
-#EXTINF:-1,TNT SÉRIES SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143201
-#EXTINF:-1,TOONCAST FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/144843
-#EXTINF:-1,Tooncast HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143332
-#EXTINF:-1,Tooncast SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143333
-#EXTINF:-1,Top Latino TV
-http://yakisoba-delivery.xyz:80/adriano/102030/143278
-#EXTINF:-1,TV Alternativa (TV Gazeta Maranhao)
-http://yakisoba-delivery.xyz:80/adriano/102030/143525
-#EXTINF:-1,TV Aparecida SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143297
-#EXTINF:-1,TV Aracati (ceara)
-http://yakisoba-delivery.xyz:80/adriano/102030/143526
-#EXTINF:-1,Tv Assembleia Ceara SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143527
-#EXTINF:-1,TV Birigui
-http://yakisoba-delivery.xyz:80/adriano/102030/143528
-#EXTINF:-1,TV Brasil  (Distrito Federal)
-http://yakisoba-delivery.xyz:80/adriano/102030/143529
-#EXTINF:-1,TV Brusque (SC)
-http://yakisoba-delivery.xyz:80/adriano/102030/143530
-#EXTINF:-1,TV Camara (Distrito Federal)
-http://yakisoba-delivery.xyz:80/adriano/102030/143454
-#EXTINF:-1,Tv Capital 777 SP SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143531
-#EXTINF:-1,TV Caruaru (Pernambuco)
-http://yakisoba-delivery.xyz:80/adriano/102030/143533
-#EXTINF:-1,TV COM BRASIL
-http://yakisoba-delivery.xyz:80/adriano/102030/143534
-#EXTINF:-1,TV CULTURA BA HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143455
-#EXTINF:-1,TV Destak
-http://yakisoba-delivery.xyz:80/adriano/102030/143535
-#EXTINF:-1,Tv Destak SP SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143536
-#EXTINF:-1,TV Diário do Sertão
-http://yakisoba-delivery.xyz:80/adriano/102030/143537
-#EXTINF:-1,TV DIÁRIO DO SERTÃO - PARAÍBA
-http://yakisoba-delivery.xyz:80/adriano/102030/143509
-#EXTINF:-1,TV El Shaday (Bahia)
-http://yakisoba-delivery.xyz:80/adriano/102030/143538
-#EXTINF:-1,TV EParana (Cultura PR)
-http://yakisoba-delivery.xyz:80/adriano/102030/143456
-#EXTINF:-1,TV EVANGELIZAR HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143298
-#EXTINF:-1,TV EVANGELIZAR SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143299
-#EXTINF:-1,TV Gazeta fullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143457
-#EXTINF:-1,TV Gazeta HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143458
-#EXTINF:-1,TV Jornal do Nordeste Paraiba)
-http://yakisoba-delivery.xyz:80/adriano/102030/143540
-#EXTINF:-1,TV Liberdade
-http://yakisoba-delivery.xyz:80/adriano/102030/143541
-#EXTINF:-1,TV Liberdade swap
-http://yakisoba-delivery.xyz:80/adriano/102030/143542
-#EXTINF:-1,TV Maceio
-http://yakisoba-delivery.xyz:80/adriano/102030/143543
-#EXTINF:-1,TV MAX
-http://yakisoba-delivery.xyz:80/adriano/102030/143545
-#EXTINF:-1,TV Metrópole
-http://yakisoba-delivery.xyz:80/adriano/102030/143546
-#EXTINF:-1,TV Mon
-http://yakisoba-delivery.xyz:80/adriano/102030/143547
-#EXTINF:-1,TV Morena Ponta Pora HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143390
-#EXTINF:-1,TV Natal (Rio Grande do Norte)
-http://yakisoba-delivery.xyz:80/adriano/102030/143548
-#EXTINF:-1,TV Novo Tempo SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143300
-#EXTINF:-1,TV Osasco (Sao Paulo)
-http://yakisoba-delivery.xyz:80/adriano/102030/143549
-#EXTINF:-1,TV Ponta da Serra
-http://yakisoba-delivery.xyz:80/adriano/102030/143280
-#EXTINF:-1,TV Ponta da Serra (Rio Grande do Sul)
-http://yakisoba-delivery.xyz:80/adriano/102030/143550
-#EXTINF:-1,TV Poços (Minas Gerais)
-http://yakisoba-delivery.xyz:80/adriano/102030/143551
-#EXTINF:-1,TV Santa Cecília (SP)
-http://yakisoba-delivery.xyz:80/adriano/102030/143552
-#EXTINF:-1,TV Serra Verde
-http://yakisoba-delivery.xyz:80/adriano/102030/143553
-#EXTINF:-1,TV Serra Verde (Ceara)
-http://yakisoba-delivery.xyz:80/adriano/102030/143554
-#EXTINF:-1,TV Sol (Paraiba)
-http://yakisoba-delivery.xyz:80/adriano/102030/143555
-#EXTINF:-1,TV Séries
-http://yakisoba-delivery.xyz:80/adriano/102030/143234
-#EXTINF:-1,TV Terceiro Anjo
-http://yakisoba-delivery.xyz:80/adriano/102030/143301
-#EXTINF:-1,TV Universal HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143285
-#EXTINF:-1,TV Universal SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143302
-#EXTINF:-1,TV Urbana (Rio Grande do Sul)
-http://yakisoba-delivery.xyz:80/adriano/102030/143556
-#EXTINF:-1,TV Verdes Campos SAT (Piaui)
-http://yakisoba-delivery.xyz:80/adriano/102030/143557
-#EXTINF:-1,TV Vitoria (Pernambuco)
-http://yakisoba-delivery.xyz:80/adriano/102030/143559
-#EXTINF:-1,TV Zoom
-http://yakisoba-delivery.xyz:80/adriano/102030/143560
-#EXTINF:-1,TVC 16 (Rio de Janeiro)
-http://yakisoba-delivery.xyz:80/adriano/102030/143561
-#EXTINF:-1,TVCine Action
-http://yakisoba-delivery.xyz:80/adriano/102030/143237
-#EXTINF:-1,TVCine Emotion
-http://yakisoba-delivery.xyz:80/adriano/102030/143240
-#EXTINF:-1,TVCine Top
-http://yakisoba-delivery.xyz:80/adriano/102030/143242
-#EXTINF:-1,TVE (Bahia)
-http://yakisoba-delivery.xyz:80/adriano/102030/143562
+http://163.172.103.202:8880/287994003724/287994003724/31056
+#EXTINF:-1,SÉRIES ANTIGAS CANAL 29
+http://163.172.103.202:8880/287994003724/287994003724/31057
+#EXTINF:-1,TV ALTIORA
+http://163.172.103.202:8880/287994003724/287994003724/31058
+#EXTINF:-1,BAND CAMPINAS ¹
+http://163.172.103.202:8880/287994003724/287994003724/31059
+#EXTINF:-1,BAND FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31060
+#EXTINF:-1,BAND HD
+http://163.172.103.202:8880/287994003724/287994003724/31061
+#EXTINF:-1,BAND PA (RBATV)
+http://163.172.103.202:8880/287994003724/287994003724/31062
+#EXTINF:-1,CANAL BRASIL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31063
+#EXTINF:-1,CANAL DO BOI
+http://163.172.103.202:8880/287994003724/287994003724/31064
+#EXTINF:-1,CINE TRIANON TV
+http://163.172.103.202:8880/287994003724/287994003724/31065
+#EXTINF:-1,CLASSIQUE TV
+http://163.172.103.202:8880/287994003724/287994003724/31066
+#EXTINF:-1,CLASSIQUE TV 2
+http://163.172.103.202:8880/287994003724/287994003724/31067
+#EXTINF:-1,CTV
+http://163.172.103.202:8880/287994003724/287994003724/31068
+#EXTINF:-1,GAZETA ¹ SP
+http://163.172.103.202:8880/287994003724/287994003724/31069
+#EXTINF:-1,GOSPEL CARTOON
+http://163.172.103.202:8880/287994003724/287994003724/31070
+#EXTINF:-1,REDE TV FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31071
+#EXTINF:-1,REDE TV HD
+http://163.172.103.202:8880/287994003724/287994003724/31072
+#EXTINF:-1,REDE TV RS TV PAMPA
+http://163.172.103.202:8880/287994003724/287994003724/31073
+#EXTINF:-1,REDE TV SUL1
+http://163.172.103.202:8880/287994003724/287994003724/31074
+#EXTINF:-1,SBT
+http://163.172.103.202:8880/287994003724/287994003724/31075
+#EXTINF:-1,SBT FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31076
+#EXTINF:-1,SBT RJ ¹
+http://163.172.103.202:8880/287994003724/287994003724/31077
+#EXTINF:-1,SBT TV ALTEROSA HD
+http://163.172.103.202:8880/287994003724/287994003724/31078
+#EXTINF:-1,SBT TV JANGADEIRO HD
+http://163.172.103.202:8880/287994003724/287994003724/31079
+#EXTINF:-1,SBT TV SERRA DOURADA FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31080
+#EXTINF:-1,TV AGUA BOA
+http://163.172.103.202:8880/287994003724/287994003724/31081
+#EXTINF:-1,TV ARATU HD
+http://163.172.103.202:8880/287994003724/287994003724/31082
+#EXTINF:-1,TV CULTURA
+http://163.172.103.202:8880/287994003724/287994003724/31083
+#EXTINF:-1,TV CULTURA HD
+http://163.172.103.202:8880/287994003724/287994003724/31084
+#EXTINF:-1,TV DIARIO FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31085
+#EXTINF:-1,TV DIGITAL BIRIGUI
+http://163.172.103.202:8880/287994003724/287994003724/31086
+#EXTINF:-1,TV GAZETA
+http://163.172.103.202:8880/287994003724/287994003724/31087
+#EXTINF:-1,TV GAZETA NORTE MINEIRA
+http://163.172.103.202:8880/287994003724/287994003724/31088
+#EXTINF:-1,Tv Itapetininga
+http://163.172.103.202:8880/287994003724/287994003724/31089
+#EXTINF:-1,TV JAPI
+http://163.172.103.202:8880/287994003724/287994003724/31090
+#EXTINF:-1,TV JORNAL DO NORDESTE
+http://163.172.103.202:8880/287994003724/287994003724/31091
+#EXTINF:-1,TV JUSTIÇA
+http://163.172.103.202:8880/287994003724/287994003724/31092
+#EXTINF:-1,TV LIBERDADE 2
+http://163.172.103.202:8880/287994003724/287994003724/31093
+#EXTINF:-1,TV LIBERDADE ONLINE
+http://163.172.103.202:8880/287994003724/287994003724/31094
+#EXTINF:-1,TV MANCHETE
+http://163.172.103.202:8880/287994003724/287994003724/31095
+#EXTINF:-1,TV MONTANHA BRANCA
+http://163.172.103.202:8880/287994003724/287994003724/31096
+#EXTINF:-1,TV NOVA ONDA
+http://163.172.103.202:8880/287994003724/287994003724/31097
+#EXTINF:-1,TV SERIES(Anos 60,70,80e90)
+http://163.172.103.202:8880/287994003724/287994003724/31098
+#EXTINF:-1,TV SERRA VERDE
+http://163.172.103.202:8880/287994003724/287994003724/31099
+#EXTINF:-1,TV SERTÃO
+http://163.172.103.202:8880/287994003724/287994003724/31100
+#EXTINF:-1,TV UNIÃO DE NATAL
+http://163.172.103.202:8880/287994003724/287994003724/31101
 #EXTINF:-1,TVE BA HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143563
-#EXTINF:-1,TVE RS
-http://yakisoba-delivery.xyz:80/adriano/102030/143564
-#EXTINF:-1,UNIVERSAL CHANNEL FHD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30942
-#EXTINF:-1,Universal Channel FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143651
-#EXTINF:-1,Universal Channel HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143202
-#EXTINF:-1,UNIVERSAL CHANNEL HD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30943
-#EXTINF:-1,Universal Channel SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143203
-#EXTINF:-1,Via Morena
-http://yakisoba-delivery.xyz:80/adriano/102030/143565
-#EXTINF:-1,Vintage MOVIES
-http://yakisoba-delivery.xyz:80/adriano/102030/143232
-#EXTINF:-1,Viva FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143652
-#EXTINF:-1,Viva HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143282
-#EXTINF:-1,Viva SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143283
-#EXTINF:-1,Warner Channel FullHD
-http://yakisoba-delivery.xyz:80/adriano/102030/143653
-#EXTINF:-1,Warner Channel HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143204
-#EXTINF:-1,WARNER CHANNEL HD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30929
-#EXTINF:-1,Warner Channel SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143205
-#EXTINF:-1,WARNER CHHANEL FHD LEG
-http://yakisoba-delivery.xyz:80/adriano/102030/30926
-#EXTINF:-1,Woohoo HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143284
-#EXTINF:-1,Woohoo SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143245
-#EXTINF:-1,ZOOMOO FULLHD
-http://yakisoba-delivery.xyz:80/adriano/102030/144842
-#EXTINF:-1,Zoomoo HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143334
-#EXTINF:-1,Zoomoo SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143335
+http://163.172.103.202:8880/287994003724/287994003724/31102
+#EXTINF:-1,WEB TV PROGRESSO
+http://163.172.103.202:8880/287994003724/287994003724/31103
+#EXTINF:-1,ANIMAL PLANET FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31104
+#EXTINF:-1,ANIMAL PLANET HD
+http://163.172.103.202:8880/287994003724/287994003724/31105
+#EXTINF:-1,DISCOVERY CHANNEL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31106
+#EXTINF:-1,DISCOVERY HOME & HEALTH FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31107
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://163.172.103.202:8880/287994003724/287994003724/31108
+#EXTINF:-1,DISCOVERY ID FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31109
+#EXTINF:-1,DISCOVERY ID HD
+http://163.172.103.202:8880/287994003724/287994003724/31110
+#EXTINF:-1,DISCOVERY SCIENCE FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31111
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://163.172.103.202:8880/287994003724/287994003724/31112
+#EXTINF:-1,DISCOVERY THEATHER FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31113
+#EXTINF:-1,DISCOVERY TURBO FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31114
+#EXTINF:-1,DISCOVERY TURBO HD
+http://163.172.103.202:8880/287994003724/287994003724/31115
+#EXTINF:-1,DISCOVERY WORLD FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31116
+#EXTINF:-1,DISCOVERY WORLD HD
+http://163.172.103.202:8880/287994003724/287994003724/31117
+#EXTINF:-1,H2 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31118
+#EXTINF:-1,H2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31119
+#EXTINF:-1,HGTV FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31120
+#EXTINF:-1,HGTV HD
+http://163.172.103.202:8880/287994003724/287994003724/31121
+#EXTINF:-1,HISTORY FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31122
+#EXTINF:-1,HISTORY HD
+http://163.172.103.202:8880/287994003724/287994003724/31123
+#EXTINF:-1,NATGEO FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31124
+#EXTINF:-1,NATGEO HD
+http://163.172.103.202:8880/287994003724/287994003724/31125
+#EXTINF:-1,NATGEO WILD FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31126
+#EXTINF:-1,NATGEO WILD HD
+http://163.172.103.202:8880/287994003724/287994003724/31127
+#EXTINF:-1,SMITHSONIAN HD
+http://163.172.103.202:8880/287994003724/287994003724/31128
+#EXTINF:-1,TLC FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31129
+#EXTINF:-1,TRAVEL BOX BRAZIL
+http://163.172.103.202:8880/287994003724/287994003724/31130
+#EXTINF:-1,ALL SPORTS TV²
+http://163.172.103.202:8880/287994003724/287994003724/31131
+#EXTINF:-1,ALL SPORTS
+http://163.172.103.202:8880/287994003724/287994003724/31132
+#EXTINF:-1,BAND SPORTS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31133
+#EXTINF:-1,BAND SPORTS HD
+http://163.172.103.202:8880/287994003724/287994003724/31134
+#EXTINF:-1,BAND SPORTS HD*
+http://163.172.103.202:8880/287994003724/287994003724/31135
+#EXTINF:-1,COMBATE FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31136
+#EXTINF:-1,COMBATE HD
+http://163.172.103.202:8880/287994003724/287994003724/31137
+#EXTINF:-1,COMBATE HD*
+http://163.172.103.202:8880/287994003724/287994003724/31138
+#EXTINF:-1,ESPN 2 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31139
+#EXTINF:-1,ESPN 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31140
+#EXTINF:-1,ESPN 2 HD+
+http://163.172.103.202:8880/287994003724/287994003724/31141
+#EXTINF:-1,ESPN BRASIL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31142
+#EXTINF:-1,ESPN BRASIL HD
+http://163.172.103.202:8880/287994003724/287994003724/31143
+#EXTINF:-1,ESPN BRASIL HD+
+http://163.172.103.202:8880/287994003724/287994003724/31144
+#EXTINF:-1,ESPN EXTRA FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31145
+#EXTINF:-1,ESPN EXTRA HD
+http://163.172.103.202:8880/287994003724/287994003724/31146
+#EXTINF:-1,ESPN EXTRA HD+
+http://163.172.103.202:8880/287994003724/287994003724/31147
+#EXTINF:-1,ESPN FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31148
+#EXTINF:-1,ESPN HD
+http://163.172.103.202:8880/287994003724/287994003724/31149
+#EXTINF:-1,ESPN HD+
+http://163.172.103.202:8880/287994003724/287994003724/31150
+#EXTINF:-1,FISH TV FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31151
+#EXTINF:-1,FISH TV HD
+http://163.172.103.202:8880/287994003724/287994003724/31152
+#EXTINF:-1,FOX SPORTS 2 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31153
+#EXTINF:-1,FOX SPORTS 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31154
+#EXTINF:-1,FOX SPORTS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31155
+#EXTINF:-1,FOX SPORTS HD
+http://163.172.103.202:8880/287994003724/287994003724/31156
+#EXTINF:-1,FOX SPORTS HD*
+http://163.172.103.202:8880/287994003724/287994003724/31157
+#EXTINF:-1,GOLF CHANNEL HD
+http://163.172.103.202:8880/287994003724/287994003724/31158
+#EXTINF:-1,OFF FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31159
+#EXTINF:-1,OFF HD
+http://163.172.103.202:8880/287994003724/287994003724/31160
+#EXTINF:-1,OFF HD*
+http://163.172.103.202:8880/287994003724/287994003724/31161
+#EXTINF:-1,SPORTV 2 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31162
+#EXTINF:-1,SPORTV 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31163
+#EXTINF:-1,SPORTV 2 HD*
+http://163.172.103.202:8880/287994003724/287994003724/31164
+#EXTINF:-1,SPORTV 3 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31165
+#EXTINF:-1,SPORTV 3 HD
+http://163.172.103.202:8880/287994003724/287994003724/31166
+#EXTINF:-1,SPORTV 3 HD*
+http://163.172.103.202:8880/287994003724/287994003724/31167
+#EXTINF:-1,SPORTV FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31168
+#EXTINF:-1,SPORTV HD
+http://163.172.103.202:8880/287994003724/287994003724/31169
+#EXTINF:-1,SPORTV HD*
+http://163.172.103.202:8880/287994003724/287994003724/31170
+#EXTINF:-1,WOOHOO FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31171
+#EXTINF:-1,WOOHOO HD
+http://163.172.103.202:8880/287994003724/287994003724/31172
+#EXTINF:-1,BOTAFOGO TV 01 HD
+http://163.172.103.202:8880/287994003724/287994003724/31173
+#EXTINF:-1,BOTAFOGO TV 01 SD
+http://163.172.103.202:8880/287994003724/287994003724/31174
+#EXTINF:-1,BOTAFOGO TV 02 HD
+http://163.172.103.202:8880/287994003724/287994003724/31175
+#EXTINF:-1,BOTAFOGO TV 02 SD
+http://163.172.103.202:8880/287994003724/287994003724/31176
+#EXTINF:-1,CAMPEONATO MINEIRO 01 HD
+http://163.172.103.202:8880/287994003724/287994003724/31177
+#EXTINF:-1,CAMPEONATO MINEIRO 02 HD
+http://163.172.103.202:8880/287994003724/287994003724/31178
+#EXTINF:-1,CAMPEONATO MINEIRO 02 SD
+http://163.172.103.202:8880/287994003724/287994003724/31179
+#EXTINF:-1,CARIOCÃO
+http://163.172.103.202:8880/287994003724/287994003724/31180
+#EXTINF:-1,CARIOCÃO 2
+http://163.172.103.202:8880/287994003724/287994003724/31181
+#EXTINF:-1,CARIOCÃO 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31182
+#EXTINF:-1,CARIOCÃO FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31183
+#EXTINF:-1,CARIOCÃO HD
+http://163.172.103.202:8880/287994003724/287994003724/31184
+#EXTINF:-1,CONMEBOL 1
+http://163.172.103.202:8880/287994003724/287994003724/31185
+#EXTINF:-1,CONMEBOL 1 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31186
+#EXTINF:-1,CONMEBOL 2
+http://163.172.103.202:8880/287994003724/287994003724/31187
+#EXTINF:-1,CONMEBOL 2 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31188
+#EXTINF:-1,CONMEBOL 3
+http://163.172.103.202:8880/287994003724/287994003724/31189
+#EXTINF:-1,CONMEBOL 3 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31190
+#EXTINF:-1,CONMEBOL 4
+http://163.172.103.202:8880/287994003724/287994003724/31191
+#EXTINF:-1,CONMEBOL 4 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31192
+#EXTINF:-1,COPA CATARINENSE
+http://163.172.103.202:8880/287994003724/287994003724/31193
+#EXTINF:-1,COPA CATARINENSE 2
+http://163.172.103.202:8880/287994003724/287994003724/31194
+#EXTINF:-1,COPA CATARINENSE 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31195
+#EXTINF:-1,COPA CATARINENSE 3
+http://163.172.103.202:8880/287994003724/287994003724/31196
+#EXTINF:-1,COPA CATARINENSE 3 HD
+http://163.172.103.202:8880/287994003724/287994003724/31197
+#EXTINF:-1,COPA CATARINENSE 4
+http://163.172.103.202:8880/287994003724/287994003724/31198
+#EXTINF:-1,COPA CATARINENSE 4 HD
+http://163.172.103.202:8880/287994003724/287994003724/31199
+#EXTINF:-1,COPA CATARINENSE HD
+http://163.172.103.202:8880/287994003724/287994003724/31200
+#EXTINF:-1,COPA DO NORDESTE
+http://163.172.103.202:8880/287994003724/287994003724/31201
+#EXTINF:-1,COPA DO NORDESTE 2
+http://163.172.103.202:8880/287994003724/287994003724/31202
+#EXTINF:-1,COPA DO NORDESTE 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31203
+#EXTINF:-1,COPA DO NORDESTE 3
+http://163.172.103.202:8880/287994003724/287994003724/31204
+#EXTINF:-1,COPA DO NORDESTE 3 HD
+http://163.172.103.202:8880/287994003724/287994003724/31205
+#EXTINF:-1,COPA DO NORDESTE HD
+http://163.172.103.202:8880/287994003724/287994003724/31206
+#EXTINF:-1,DAZN FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31207
+#EXTINF:-1,DAZN OFICIAL
+http://163.172.103.202:8880/287994003724/287994003724/31208
+#EXTINF:-1,DAZN2
+http://163.172.103.202:8880/287994003724/287994003724/31209
+#EXTINF:-1,DAZN2 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31210
+#EXTINF:-1,DAZN2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31211
+#EXTINF:-1,DAZN²
+http://163.172.103.202:8880/287994003724/287994003724/31212
+#EXTINF:-1,FLATV 01 HD
+http://163.172.103.202:8880/287994003724/287994003724/31213
+#EXTINF:-1,FLATV 01 SD
+http://163.172.103.202:8880/287994003724/287994003724/31214
+#EXTINF:-1,FLATV 02 HD
+http://163.172.103.202:8880/287994003724/287994003724/31215
+#EXTINF:-1,FLATV 02 SD
+http://163.172.103.202:8880/287994003724/287994003724/31216
+#EXTINF:-1,LIGA FUTSAL 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31217
+#EXTINF:-1,LIGA FUTSAL 2 SD
+http://163.172.103.202:8880/287994003724/287994003724/31218
+#EXTINF:-1,LIGA FUTSAL HD
+http://163.172.103.202:8880/287994003724/287994003724/31219
+#EXTINF:-1,LIGA FUTSAL SD
+http://163.172.103.202:8880/287994003724/287994003724/31220
+#EXTINF:-1,ONE FOOTBALL 03 HD
+http://163.172.103.202:8880/287994003724/287994003724/31221
+#EXTINF:-1,TNT SPORTS
+http://163.172.103.202:8880/287994003724/287994003724/31222
+#EXTINF:-1,TNT SPORTS 2
+http://163.172.103.202:8880/287994003724/287994003724/31223
+#EXTINF:-1,TNT SPORTS 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31224
+#EXTINF:-1,TNT SPORTS 3
+http://163.172.103.202:8880/287994003724/287994003724/31225
+#EXTINF:-1,TNT SPORTS 3 HD
+http://163.172.103.202:8880/287994003724/287994003724/31226
+#EXTINF:-1,TNT SPORTS 4 HD
+http://163.172.103.202:8880/287994003724/287994003724/31227
+#EXTINF:-1,TNT SPORTS 4 SD
+http://163.172.103.202:8880/287994003724/287994003724/31228
+#EXTINF:-1,TNT SPORTS 5 HD
+http://163.172.103.202:8880/287994003724/287994003724/31229
+#EXTINF:-1,TNT SPORTS 5 SD
+http://163.172.103.202:8880/287994003724/287994003724/31230
+#EXTINF:-1,TNT SPORTS 6 HD
+http://163.172.103.202:8880/287994003724/287994003724/31231
+#EXTINF:-1,TNT SPORTS 6 SD
+http://163.172.103.202:8880/287994003724/287994003724/31232
+#EXTINF:-1,TNT SPORTS 7 HD
+http://163.172.103.202:8880/287994003724/287994003724/31233
+#EXTINF:-1,TNT SPORTS 7 SD
+http://163.172.103.202:8880/287994003724/287994003724/31234
+#EXTINF:-1,TNT SPORTS 8 HD
+http://163.172.103.202:8880/287994003724/287994003724/31235
+#EXTINF:-1,TNT SPORTS 8 SD
+http://163.172.103.202:8880/287994003724/287994003724/31236
+#EXTINF:-1,TNT SPORTS HD
+http://163.172.103.202:8880/287994003724/287994003724/31237
+#EXTINF:-1,VASCO TV 01 HD
+http://163.172.103.202:8880/287994003724/287994003724/31238
+#EXTINF:-1,VASCO TV 01 SD
+http://163.172.103.202:8880/287994003724/287994003724/31239
+#EXTINF:-1,VASCO TV 02 HD
+http://163.172.103.202:8880/287994003724/287994003724/31240
+#EXTINF:-1,VASCO TV 02 SD
+http://163.172.103.202:8880/287994003724/287994003724/31241
+#EXTINF:-1,BTV
+http://163.172.103.202:8880/287994003724/287994003724/31242
+#EXTINF:-1,ELEVEN SPORTS 1
+http://163.172.103.202:8880/287994003724/287994003724/31243
+#EXTINF:-1,ELEVEN SPORTS 2
+http://163.172.103.202:8880/287994003724/287994003724/31244
+#EXTINF:-1,ELEVEN SPORTS 3
+http://163.172.103.202:8880/287994003724/287994003724/31245
+#EXTINF:-1,GOLF CHANNEL
+http://163.172.103.202:8880/287994003724/287994003724/31246
+#EXTINF:-1,MLB NETWORK
+http://163.172.103.202:8880/287994003724/287994003724/31247
+#EXTINF:-1,NBA TV
+http://163.172.103.202:8880/287994003724/287994003724/31248
+#EXTINF:-1,NFL NETWORK HD
+http://163.172.103.202:8880/287994003724/287994003724/31249
+#EXTINF:-1,RED BULL TV
+http://163.172.103.202:8880/287994003724/287994003724/31250
+#EXTINF:-1,SPORT TV +
+http://163.172.103.202:8880/287994003724/287994003724/31251
+#EXTINF:-1,SPORT TV 1
+http://163.172.103.202:8880/287994003724/287994003724/31252
+#EXTINF:-1,SPORT TV 2
+http://163.172.103.202:8880/287994003724/287994003724/31253
+#EXTINF:-1,SPORT TV 3
+http://163.172.103.202:8880/287994003724/287994003724/31254
+#EXTINF:-1,SPORT TV 4
+http://163.172.103.202:8880/287994003724/287994003724/31255
+#EXTINF:-1,SPORT TV 5
+http://163.172.103.202:8880/287994003724/287994003724/31256
+#EXTINF:-1,SPORT TV NBA
+http://163.172.103.202:8880/287994003724/287994003724/31257
+#EXTINF:-1,SPORTING TV
+http://163.172.103.202:8880/287994003724/287994003724/31258
+#EXTINF:-1,ABU DHABI SPORTS 01
+http://163.172.103.202:8880/287994003724/287994003724/31259
+#EXTINF:-1,ABU DHABI SPORTS 02
+http://163.172.103.202:8880/287994003724/287994003724/31260
+#EXTINF:-1,ABU DHABI SPORTS 03
+http://163.172.103.202:8880/287994003724/287994003724/31261
+#EXTINF:-1,ABU DHABI SPORTS 04
+http://163.172.103.202:8880/287994003724/287994003724/31262
+#EXTINF:-1,AL KASS SPORTS 01
+http://163.172.103.202:8880/287994003724/287994003724/31263
+#EXTINF:-1,AL KASS SPORTS 02
+http://163.172.103.202:8880/287994003724/287994003724/31264
+#EXTINF:-1,AL KASS SPORTS 03
+http://163.172.103.202:8880/287994003724/287994003724/31265
+#EXTINF:-1,AL KASS SPORTS 04
+http://163.172.103.202:8880/287994003724/287994003724/31266
+#EXTINF:-1,AL KASS SPORTS 05
+http://163.172.103.202:8880/287994003724/287994003724/31267
+#EXTINF:-1,A&E FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31268
+#EXTINF:-1,AMC HD
+http://163.172.103.202:8880/287994003724/287994003724/31269
+#EXTINF:-1,AXN FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31270
+#EXTINF:-1,AXN HD
+http://163.172.103.202:8880/287994003724/287994003724/31271
+#EXTINF:-1,CANAL SONY FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31272
+#EXTINF:-1,CANAL SONY HD
+http://163.172.103.202:8880/287994003724/287994003724/31273
+#EXTINF:-1,CINEMAX FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31274
+#EXTINF:-1,CINEMAX HD
+http://163.172.103.202:8880/287994003724/287994003724/31275
+#EXTINF:-1,FX FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31276
+#EXTINF:-1,FX HD
+http://163.172.103.202:8880/287994003724/287994003724/31277
+#EXTINF:-1,MEGAPIX FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31278
+#EXTINF:-1,MEGAPIX HD
+http://163.172.103.202:8880/287994003724/287994003724/31279
+#EXTINF:-1,PARAMOUNT CHANNEL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31280
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://163.172.103.202:8880/287994003724/287994003724/31281
+#EXTINF:-1,SPACE FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31282
+#EXTINF:-1,SPACE HD
+http://163.172.103.202:8880/287994003724/287994003724/31283
+#EXTINF:-1,SPACE HD*
+http://163.172.103.202:8880/287994003724/287994003724/31284
+#EXTINF:-1,STAR CHANNEL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31285
+#EXTINF:-1,STAR CHANNEL HD
+http://163.172.103.202:8880/287994003724/287994003724/31286
+#EXTINF:-1,STAR HITS 1 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31287
+#EXTINF:-1,STAR HITS 2 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31288
+#EXTINF:-1,STAR HITS 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31289
+#EXTINF:-1,STAR HITS HD
+http://163.172.103.202:8880/287994003724/287994003724/31290
+#EXTINF:-1,STUDIO UNIVERSAL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31291
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://163.172.103.202:8880/287994003724/287994003724/31292
+#EXTINF:-1,SYFY FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31293
+#EXTINF:-1,SYFY HD
+http://163.172.103.202:8880/287994003724/287994003724/31294
+#EXTINF:-1,TBS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31295
+#EXTINF:-1,TBS HD
+http://163.172.103.202:8880/287994003724/287994003724/31296
+#EXTINF:-1,TCM FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31297
+#EXTINF:-1,TCM HD
+http://163.172.103.202:8880/287994003724/287994003724/31298
+#EXTINF:-1,TNT FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31299
+#EXTINF:-1,TNT HD
+http://163.172.103.202:8880/287994003724/287994003724/31300
+#EXTINF:-1,TNT SERIES FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31301
+#EXTINF:-1,TNT SERIES HD
+http://163.172.103.202:8880/287994003724/287994003724/31302
+#EXTINF:-1,UNIVERSAL CHANNEL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31303
+#EXTINF:-1,UNIVERSAL TV HD
+http://163.172.103.202:8880/287994003724/287994003724/31304
+#EXTINF:-1,WARNER CHANNEL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31305
+#EXTINF:-1,CINE DISNEY HD
+http://163.172.103.202:8880/287994003724/287994003724/31306
+#EXTINF:-1,CINE FAROESTE HD
+http://163.172.103.202:8880/287994003724/287994003724/31307
+#EXTINF:-1,CINE LIGA DA JUSTIÇA HD
+http://163.172.103.202:8880/287994003724/287994003724/31308
+#EXTINF:-1,CINE MARVEL HD
+http://163.172.103.202:8880/287994003724/287994003724/31309
+#EXTINF:-1,CINE PIPOCA 1
+http://163.172.103.202:8880/287994003724/287994003724/31310
+#EXTINF:-1,CINE PIPOCA 2
+http://163.172.103.202:8880/287994003724/287994003724/31311
+#EXTINF:-1,CINE PIPOCA 3
+http://163.172.103.202:8880/287994003724/287994003724/31312
+#EXTINF:-1,CINE PIPOCA 4
+http://163.172.103.202:8880/287994003724/287994003724/31313
+#EXTINF:-1,CINE PIPOCA 5
+http://163.172.103.202:8880/287994003724/287994003724/31314
+#EXTINF:-1,CINE SESSÃO DA TARDE HD
+http://163.172.103.202:8880/287994003724/287994003724/31315
+#EXTINF:-1,CINE SKY 01 HD
+http://163.172.103.202:8880/287994003724/287994003724/31316
+#EXTINF:-1,CINE SKY 02 HD
+http://163.172.103.202:8880/287994003724/287994003724/31317
+#EXTINF:-1,CINE SKY 03 HD
+http://163.172.103.202:8880/287994003724/287994003724/31318
+#EXTINF:-1,CINE SKY 04 HD
+http://163.172.103.202:8880/287994003724/287994003724/31319
+#EXTINF:-1,CINE SKY 05 HD
+http://163.172.103.202:8880/287994003724/287994003724/31320
+#EXTINF:-1,CINE SKY 06 HD
+http://163.172.103.202:8880/287994003724/287994003724/31321
+#EXTINF:-1,CINE SKY 07 HD
+http://163.172.103.202:8880/287994003724/287994003724/31322
+#EXTINF:-1,CINE SKY 10 HD
+http://163.172.103.202:8880/287994003724/287994003724/31323
+#EXTINF:-1,CINE SKY 8 HD
+http://163.172.103.202:8880/287994003724/287994003724/31324
+#EXTINF:-1,CINE SKY 9 HD
+http://163.172.103.202:8880/287994003724/287994003724/31325
+#EXTINF:-1,CINE TRAPALHÕES HD
+http://163.172.103.202:8880/287994003724/287994003724/31326
+#EXTINF:-1,CLASSIC FILMES
+http://163.172.103.202:8880/287994003724/287994003724/31327
+#EXTINF:-1,GOSPEL MOVIE
+http://163.172.103.202:8880/287994003724/287994003724/31328
+#EXTINF:-1,NOVA CINEMA
+http://163.172.103.202:8880/287994003724/287994003724/31329
+#EXTINF:-1,TVSÉRIES
+http://163.172.103.202:8880/287994003724/287994003724/31330
+#EXTINF:-1,VINTAGE MOVIES
+http://163.172.103.202:8880/287994003724/287994003724/31331
+#EXTINF:-1,GLOBO BAHIA HD¹
+http://163.172.103.202:8880/287994003724/287994003724/31332
+#EXTINF:-1,GLOBO BELEM HD
+http://163.172.103.202:8880/287994003724/287994003724/31333
+#EXTINF:-1,GLOBO BRASILIA FHD H265
+http://163.172.103.202:8880/287994003724/287994003724/31334
+#EXTINF:-1,GLOBO BRASILIA HD²
+http://163.172.103.202:8880/287994003724/287994003724/31335
+#EXTINF:-1,GLOBO BRASILIA HD¹
+http://163.172.103.202:8880/287994003724/287994003724/31336
+#EXTINF:-1,GLOBO CENTRO AMERICA FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31337
+#EXTINF:-1,GLOBO CENTRO AMÉRICA HD²
+http://163.172.103.202:8880/287994003724/287994003724/31338
+#EXTINF:-1,GLOBO CURITIBA HD
+http://163.172.103.202:8880/287994003724/287994003724/31339
+#EXTINF:-1,GLOBO EPTV CAMPINAS
+http://163.172.103.202:8880/287994003724/287994003724/31340
+#EXTINF:-1,GLOBO EPTV CAMPINAS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31341
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://163.172.103.202:8880/287994003724/287994003724/31342
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO
+http://163.172.103.202:8880/287994003724/287994003724/31343
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO
+http://163.172.103.202:8880/287994003724/287994003724/31344
+#EXTINF:-1,GLOBO EPTV SAO CARLOS
+http://163.172.103.202:8880/287994003724/287994003724/31345
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31346
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://163.172.103.202:8880/287994003724/287994003724/31347
+#EXTINF:-1,GLOBO FLORIANOPOLIS
+http://163.172.103.202:8880/287994003724/287994003724/31348
+#EXTINF:-1,GLOBO FLORIANOPOLIS HD
+http://163.172.103.202:8880/287994003724/287994003724/31349
+#EXTINF:-1,GLOBO GAZETA SUL ALEGRE ES HD
+http://163.172.103.202:8880/287994003724/287994003724/31350
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
+http://163.172.103.202:8880/287994003724/287994003724/31351
+#EXTINF:-1,GLOBO INTER TV CABUGI
+http://163.172.103.202:8880/287994003724/287994003724/31352
+#EXTINF:-1,GLOBO INTER TV CABUGI HD²
+http://163.172.103.202:8880/287994003724/287994003724/31353
+#EXTINF:-1,GLOBO INTER TV CABUGI²
+http://163.172.103.202:8880/287994003724/287994003724/31354
+#EXTINF:-1,GLOBO INTER TV DOS VALES HD²
+http://163.172.103.202:8880/287994003724/287994003724/31355
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31356
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
+http://163.172.103.202:8880/287994003724/287994003724/31357
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
+http://163.172.103.202:8880/287994003724/287994003724/31358
+#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
+http://163.172.103.202:8880/287994003724/287994003724/31359
+#EXTINF:-1,GLOBO INTERTV ALTO LITORAL HD²
+http://163.172.103.202:8880/287994003724/287994003724/31360
+#EXTINF:-1,GLOBO MINAS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31361
+#EXTINF:-1,GLOBO MINAS HD
+http://163.172.103.202:8880/287994003724/287994003724/31362
+#EXTINF:-1,GLOBO MINAS HD²
+http://163.172.103.202:8880/287994003724/287994003724/31363
+#EXTINF:-1,GLOBO MINAS HD¹
+http://163.172.103.202:8880/287994003724/287994003724/31364
+#EXTINF:-1,GLOBO MINAS²
+http://163.172.103.202:8880/287994003724/287994003724/31365
+#EXTINF:-1,GLOBO NACIONAL HD
+http://163.172.103.202:8880/287994003724/287994003724/31366
+#EXTINF:-1,GLOBO NORDESTE
+http://163.172.103.202:8880/287994003724/287994003724/31367
+#EXTINF:-1,GLOBO NORDESTE FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31368
+#EXTINF:-1,GLOBO NORDESTE HD
+http://163.172.103.202:8880/287994003724/287994003724/31369
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31370
+#EXTINF:-1,GLOBO NSC JOINVILLE HD
+http://163.172.103.202:8880/287994003724/287994003724/31371
+#EXTINF:-1,GLOBO NSC TV BLUMENAL HD
+http://163.172.103.202:8880/287994003724/287994003724/31372
+#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
+http://163.172.103.202:8880/287994003724/287994003724/31373
+#EXTINF:-1,GLOBO NSC TV CHAPECO HD
+http://163.172.103.202:8880/287994003724/287994003724/31374
+#EXTINF:-1,GLOBO NSC TV CRICIUMA HD
+http://163.172.103.202:8880/287994003724/287994003724/31375
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
+http://163.172.103.202:8880/287994003724/287994003724/31376
+#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
+http://163.172.103.202:8880/287994003724/287994003724/31377
+#EXTINF:-1,GLOBO PARAIBA HD¹
+http://163.172.103.202:8880/287994003724/287994003724/31378
+#EXTINF:-1,GLOBO RBS HD¹
+http://163.172.103.202:8880/287994003724/287994003724/31379
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE²
+http://163.172.103.202:8880/287994003724/287994003724/31380
+#EXTINF:-1,GLOBO RBS SANTA MARIA HD
+http://163.172.103.202:8880/287994003724/287994003724/31381
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
+http://163.172.103.202:8880/287994003724/287994003724/31382
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
+http://163.172.103.202:8880/287994003724/287994003724/31383
+#EXTINF:-1,GLOBO RBS TV PELOTAS HD
+http://163.172.103.202:8880/287994003724/287994003724/31384
+#EXTINF:-1,GLOBO RBS TV POA FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31385
+#EXTINF:-1,GLOBO RBS TV POÁ FHD H265
+http://163.172.103.202:8880/287994003724/287994003724/31386
+#EXTINF:-1,GLOBO RECIFE HD
+http://163.172.103.202:8880/287994003724/287994003724/31387
+#EXTINF:-1,GLOBO REDE AMAZONICA
+http://163.172.103.202:8880/287994003724/287994003724/31388
+#EXTINF:-1,GLOBO REDE AMAZONICA HD
+http://163.172.103.202:8880/287994003724/287994003724/31389
+#EXTINF:-1,GLOBO RIO
+http://163.172.103.202:8880/287994003724/287994003724/31390
+#EXTINF:-1,GLOBO RIO FHD H265
+http://163.172.103.202:8880/287994003724/287994003724/31391
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL
+http://163.172.103.202:8880/287994003724/287994003724/31392
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL HD
+http://163.172.103.202:8880/287994003724/287994003724/31393
+#EXTINF:-1,GLOBO RIO HD²
+http://163.172.103.202:8880/287994003724/287994003724/31394
+#EXTINF:-1,GLOBO RIO INTERIOR HD
+http://163.172.103.202:8880/287994003724/287994003724/31395
+#EXTINF:-1,GLOBO RJ FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31396
+#EXTINF:-1,GLOBO RJ HD+
+http://163.172.103.202:8880/287994003724/287994003724/31397
+#EXTINF:-1,GLOBO RJ HD¹
+http://163.172.103.202:8880/287994003724/287994003724/31398
+#EXTINF:-1,GLOBO RPC CURITIBA HD²
+http://163.172.103.202:8880/287994003724/287994003724/31399
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU HD
+http://163.172.103.202:8880/287994003724/287994003724/31400
+#EXTINF:-1,GLOBO RPC MARINGA HD
+http://163.172.103.202:8880/287994003724/287994003724/31401
+#EXTINF:-1,GLOBO RPC PARANAENSE FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31402
+#EXTINF:-1,GLOBO RPC PARANAVAI HD
+http://163.172.103.202:8880/287994003724/287994003724/31403
+#EXTINF:-1,GLOBO RPC PONTA GROSSA HD
+http://163.172.103.202:8880/287994003724/287994003724/31404
+#EXTINF:-1,GLOBO RPC TV CURITIBA
+http://163.172.103.202:8880/287994003724/287994003724/31405
+#EXTINF:-1,GLOBO SERGIPE FHD H265
+http://163.172.103.202:8880/287994003724/287994003724/31406
+#EXTINF:-1,GLOBO SJRP
+http://163.172.103.202:8880/287994003724/287994003724/31407
+#EXTINF:-1,GLOBO SP
+http://163.172.103.202:8880/287994003724/287994003724/31408
+#EXTINF:-1,GLOBO SP FHD
+http://163.172.103.202:8880/287994003724/287994003724/31409
+#EXTINF:-1,GLOBO SP FHD H265
+http://163.172.103.202:8880/287994003724/287994003724/31410
+#EXTINF:-1,GLOBO SP FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31411
+#EXTINF:-1,GLOBO SP HD+
+http://163.172.103.202:8880/287994003724/287994003724/31412
+#EXTINF:-1,GLOBO SP HD¹
+http://163.172.103.202:8880/287994003724/287994003724/31413
+#EXTINF:-1,GLOBO SP²
+http://163.172.103.202:8880/287994003724/287994003724/31414
+#EXTINF:-1,GLOBO SÃO JOSÉ DO RIO PRETO
+http://163.172.103.202:8880/287994003724/287994003724/31415
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA
+http://163.172.103.202:8880/287994003724/287994003724/31416
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD
+http://163.172.103.202:8880/287994003724/287994003724/31417
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD²
+http://163.172.103.202:8880/287994003724/287994003724/31418
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA²
+http://163.172.103.202:8880/287994003724/287994003724/31419
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://163.172.103.202:8880/287994003724/287994003724/31420
+#EXTINF:-1,GLOBO TV BAHIA
+http://163.172.103.202:8880/287994003724/287994003724/31421
+#EXTINF:-1,GLOBO TV BAHIA FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31422
+#EXTINF:-1,GLOBO TV BAHIA HD+
+http://163.172.103.202:8880/287994003724/287994003724/31423
+#EXTINF:-1,GLOBO TV BAHIA HD²
+http://163.172.103.202:8880/287994003724/287994003724/31424
+#EXTINF:-1,GLOBO TV BELEM FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31425
+#EXTINF:-1,GLOBO TV BRASILIA FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31426
+#EXTINF:-1,GLOBO TV CENTRO AMERICA HD
+http://163.172.103.202:8880/287994003724/287994003724/31427
+#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIABÁ HD
+http://163.172.103.202:8880/287994003724/287994003724/31428
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31429
+#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS HD
+http://163.172.103.202:8880/287994003724/287994003724/31430
+#EXTINF:-1,GLOBO TV GAZETA FHD H265
+http://163.172.103.202:8880/287994003724/287994003724/31431
+#EXTINF:-1,GLOBO TV GAZETA FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31432
+#EXTINF:-1,GLOBO TV GAZETA SUL HD
+http://163.172.103.202:8880/287994003724/287994003724/31433
+#EXTINF:-1,GLOBO TV INTEGRACAO ARAXA HD
+http://163.172.103.202:8880/287994003724/287994003724/31434
+#EXTINF:-1,GLOBO TV LIBERAL BELEM
+http://163.172.103.202:8880/287994003724/287994003724/31435
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
+http://163.172.103.202:8880/287994003724/287994003724/31436
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD²
+http://163.172.103.202:8880/287994003724/287994003724/31437
+#EXTINF:-1,GLOBO TV MIRANTE FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31438
+#EXTINF:-1,GLOBO TV MIRANTE MARANHÃO HD
+http://163.172.103.202:8880/287994003724/287994003724/31439
+#EXTINF:-1,GLOBO TV MORENA FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31440
+#EXTINF:-1,GLOBO TV RIO SUL
+http://163.172.103.202:8880/287994003724/287994003724/31441
+#EXTINF:-1,GLOBO TV RIO SUL HD²
+http://163.172.103.202:8880/287994003724/287994003724/31442
+#EXTINF:-1,GLOBO TV SERGIPE HD
+http://163.172.103.202:8880/287994003724/287994003724/31443
+#EXTINF:-1,GLOBO TV TEM BAURU
+http://163.172.103.202:8880/287994003724/287994003724/31444
+#EXTINF:-1,GLOBO TV TEM SOROCABA
+http://163.172.103.202:8880/287994003724/287994003724/31445
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
+http://163.172.103.202:8880/287994003724/287994003724/31446
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
+http://163.172.103.202:8880/287994003724/287994003724/31447
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA
+http://163.172.103.202:8880/287994003724/287994003724/31448
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
+http://163.172.103.202:8880/287994003724/287994003724/31449
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
+http://163.172.103.202:8880/287994003724/287994003724/31450
+#EXTINF:-1,GLOBO TV VERDES MARES FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31451
+#EXTINF:-1,GLOBOTV ANHANGUERA FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31452
+#EXTINF:-1,INTER TV DOS VALES FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31453
+#EXTINF:-1,NSC TV BLUMENAU FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31454
+#EXTINF:-1,REDE AMAZÔNICA PORTO VELHO HD
+http://163.172.103.202:8880/287994003724/287994003724/31455
+#EXTINF:-1,TV MORENA PONTA PORA HD
+http://163.172.103.202:8880/287994003724/287994003724/31456
+#EXTINF:-1,TV SANTA CRUZ FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31457
+#EXTINF:-1,TV SERGIPE FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31458
+#EXTINF:-1,TV VANGUARDA HD (SAO JOSE DOS CAMPOS)
+http://163.172.103.202:8880/287994003724/287994003724/31459
+#EXTINF:-1,HBO 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31460
+#EXTINF:-1,HBO FAMILY FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31461
+#EXTINF:-1,HBO FAMILY HD
+http://163.172.103.202:8880/287994003724/287994003724/31462
+#EXTINF:-1,HBO FAMILY HD*
+http://163.172.103.202:8880/287994003724/287994003724/31463
+#EXTINF:-1,HBO FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31464
+#EXTINF:-1,HBO HD
+http://163.172.103.202:8880/287994003724/287994003724/31465
+#EXTINF:-1,HBO MUNDI FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31466
+#EXTINF:-1,HBO MUNDI HD
+http://163.172.103.202:8880/287994003724/287994003724/31467
+#EXTINF:-1,HBO PLUS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31468
+#EXTINF:-1,HBO PLUS HD
+http://163.172.103.202:8880/287994003724/287994003724/31469
+#EXTINF:-1,HBO POP FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31470
+#EXTINF:-1,HBO POP HD
+http://163.172.103.202:8880/287994003724/287994003724/31471
+#EXTINF:-1,HBO SIGNATURE FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31472
+#EXTINF:-1,HBO SIGNATURE HD
+http://163.172.103.202:8880/287994003724/287994003724/31473
+#EXTINF:-1,HBO XTREAME HD
+http://163.172.103.202:8880/287994003724/287994003724/31474
+#EXTINF:-1,HBO XTREME FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31475
+#EXTINF:-1,BABY TV FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31476
+#EXTINF:-1,BABY TV HD
+http://163.172.103.202:8880/287994003724/287994003724/31477
+#EXTINF:-1,BOOMERANG FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31478
+#EXTINF:-1,CARTOON NETWORK FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31479
+#EXTINF:-1,CARTOON NETWORK HD
+http://163.172.103.202:8880/287994003724/287994003724/31480
+#EXTINF:-1,DISCOVERY KIDS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31481
+#EXTINF:-1,DISCOVERY KIDS HD
+http://163.172.103.202:8880/287994003724/287994003724/31482
+#EXTINF:-1,DISNEY CHANNEL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31483
+#EXTINF:-1,DISNEY CHANNEL HD
+http://163.172.103.202:8880/287994003724/287994003724/31484
+#EXTINF:-1,DISNEY JUNIOR FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31485
+#EXTINF:-1,DISNEY JUNIOR HD
+http://163.172.103.202:8880/287994003724/287994003724/31486
+#EXTINF:-1,DISNEY XD FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31487
+#EXTINF:-1,DISNEY XD HD
+http://163.172.103.202:8880/287994003724/287994003724/31488
+#EXTINF:-1,GLOBINHO FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31489
+#EXTINF:-1,GLOBINHO HD
+http://163.172.103.202:8880/287994003724/287994003724/31490
+#EXTINF:-1,GLOOB FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31491
+#EXTINF:-1,GLOOB HD
+http://163.172.103.202:8880/287994003724/287994003724/31492
+#EXTINF:-1,KURIAKOS KIDS
+http://163.172.103.202:8880/287994003724/287994003724/31493
+#EXTINF:-1,LOADING TV
+http://163.172.103.202:8880/287994003724/287994003724/31494
+#EXTINF:-1,NATGEO KIDS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31495
+#EXTINF:-1,NATGEO KIDS HD
+http://163.172.103.202:8880/287994003724/287994003724/31496
+#EXTINF:-1,NICK JR FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31497
+#EXTINF:-1,NICK JR HD
+http://163.172.103.202:8880/287994003724/287994003724/31498
+#EXTINF:-1,NICKELODEON FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31499
+#EXTINF:-1,NICKELODEON HD
+http://163.172.103.202:8880/287994003724/287994003724/31500
+#EXTINF:-1,TOONCAST FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31501
+#EXTINF:-1,TV RA TIM BUM FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31502
+#EXTINF:-1,TV RA TIM BUM HD
+http://163.172.103.202:8880/287994003724/287994003724/31503
+#EXTINF:-1,ZOOMOO HD
+http://163.172.103.202:8880/287994003724/287994003724/31504
+#EXTINF:-1,3ABN KIDS
+http://163.172.103.202:8880/287994003724/287994003724/31505
+#EXTINF:-1,BAND NEWS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31506
+#EXTINF:-1,BLOOMBERG USA *
+http://163.172.103.202:8880/287994003724/287994003724/31507
+#EXTINF:-1,CNN BRASIL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31508
+#EXTINF:-1,CNN BRASIL HD
+http://163.172.103.202:8880/287994003724/287994003724/31509
+#EXTINF:-1,CNN ESPANHOL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31510
+#EXTINF:-1,CNN INTERNACIONAL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31511
+#EXTINF:-1,DW DEUTSCHE
+http://163.172.103.202:8880/287994003724/287994003724/31512
+#EXTINF:-1,DW ESPANHOL
+http://163.172.103.202:8880/287994003724/287994003724/31513
+#EXTINF:-1,FOX NEWS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31514
+#EXTINF:-1,FOX NEWS HD
+http://163.172.103.202:8880/287994003724/287994003724/31515
+#EXTINF:-1,GLOBO NEWS
+http://163.172.103.202:8880/287994003724/287994003724/31516
+#EXTINF:-1,GLOBO NEWS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31517
+#EXTINF:-1,GLOBO NEWS HD
+http://163.172.103.202:8880/287994003724/287994003724/31518
+#EXTINF:-1,GLOBO NEWS HD DUAL
+http://163.172.103.202:8880/287994003724/287994003724/31519
+#EXTINF:-1,NHK JAPÃO  HD
+http://163.172.103.202:8880/287994003724/287994003724/31520
+#EXTINF:-1,RAI INTERNACIONAL HD
+http://163.172.103.202:8880/287994003724/287994003724/31521
+#EXTINF:-1,RECORD NEWS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31522
+#EXTINF:-1,RECORD NEWS HD
+http://163.172.103.202:8880/287994003724/287994003724/31523
+#EXTINF:-1,SIC INTERNACIONAL²
+http://163.172.103.202:8880/287994003724/287994003724/31524
+#EXTINF:-1,PREMIERE CLUBES FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31525
+#EXTINF:-1,PREMIERE CLUBES HD
+http://163.172.103.202:8880/287994003724/287994003724/31526
+#EXTINF:-1,PREMIERE CLUBES HD²
+http://163.172.103.202:8880/287994003724/287994003724/31527
+#EXTINF:-1,PREMIERE 2 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31528
+#EXTINF:-1,PREMIERE 2 HD
+http://163.172.103.202:8880/287994003724/287994003724/31529
+#EXTINF:-1,PREMIERE 2 HD²
+http://163.172.103.202:8880/287994003724/287994003724/31530
+#EXTINF:-1,PREMIERE 2 UHD
+http://163.172.103.202:8880/287994003724/287994003724/31531
+#EXTINF:-1,PREMIERE 3 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31532
+#EXTINF:-1,PREMIERE 3 HD
+http://163.172.103.202:8880/287994003724/287994003724/31533
+#EXTINF:-1,PREMIERE 3 HD²
+http://163.172.103.202:8880/287994003724/287994003724/31534
+#EXTINF:-1,PREMIERE 3 UHD
+http://163.172.103.202:8880/287994003724/287994003724/31535
+#EXTINF:-1,PREMIERE 4 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31536
+#EXTINF:-1,PREMIERE 4 HD
+http://163.172.103.202:8880/287994003724/287994003724/31537
+#EXTINF:-1,PREMIERE 4 HD²
+http://163.172.103.202:8880/287994003724/287994003724/31538
+#EXTINF:-1,PREMIERE 5 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31539
+#EXTINF:-1,PREMIERE 5 HD
+http://163.172.103.202:8880/287994003724/287994003724/31540
+#EXTINF:-1,PREMIERE 5 HD²
+http://163.172.103.202:8880/287994003724/287994003724/31541
+#EXTINF:-1,PREMIERE 6 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31542
+#EXTINF:-1,PREMIERE 6 HD
+http://163.172.103.202:8880/287994003724/287994003724/31543
+#EXTINF:-1,PREMIERE 7 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31544
+#EXTINF:-1,PREMIERE 7 HD
+http://163.172.103.202:8880/287994003724/287994003724/31545
+#EXTINF:-1,PREMIERE 7 HD²
+http://163.172.103.202:8880/287994003724/287994003724/31546
+#EXTINF:-1,POWER COUPLE BRASIL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31547
+#EXTINF:-1,POWER COUPLE BRASIL HD²
+http://163.172.103.202:8880/287994003724/287994003724/31548
+#EXTINF:-1,POWER COUPLE BRASIL HD³
+http://163.172.103.202:8880/287994003724/287994003724/31549
+#EXTINF:-1,POWER COUPLE BRASIL HD
+http://163.172.103.202:8880/287994003724/287994003724/31550
+#EXTINF:-1,TV CIDADE CEARÁ FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31551
+#EXTINF:-1,RECORD CABRALIA
+http://163.172.103.202:8880/287994003724/287994003724/31552
+#EXTINF:-1,BR: RECORD CAMPINAS HD²
+http://163.172.103.202:8880/287994003724/287994003724/31553
+#EXTINF:-1,BR: RECORD NORDESTE HD²
+http://163.172.103.202:8880/287994003724/287994003724/31554
+#EXTINF:-1,BR: RECORD RJ HD²
+http://163.172.103.202:8880/287994003724/287994003724/31555
+#EXTINF:-1,BR: RECORD SP HD²
+http://163.172.103.202:8880/287994003724/287994003724/31556
+#EXTINF:-1,RECORD
+http://163.172.103.202:8880/287994003724/287994003724/31557
+#EXTINF:-1,RECORD BAHIA HD
+http://163.172.103.202:8880/287994003724/287994003724/31558
+#EXTINF:-1,RECORD BELEM
+http://163.172.103.202:8880/287994003724/287994003724/31559
+#EXTINF:-1,RECORD BRASILIA
+http://163.172.103.202:8880/287994003724/287994003724/31560
+#EXTINF:-1,RECORD BRASILIA HD¹
+http://163.172.103.202:8880/287994003724/287994003724/31561
+#EXTINF:-1,RECORD FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31562
+#EXTINF:-1,RECORD GOIAS
+http://163.172.103.202:8880/287994003724/287994003724/31563
+#EXTINF:-1,RECORD ITAPOAN - BAHIA
+http://163.172.103.202:8880/287994003724/287994003724/31564
+#EXTINF:-1,RECORD MINAS HD
+http://163.172.103.202:8880/287994003724/287994003724/31565
+#EXTINF:-1,RECORD RJ HD
+http://163.172.103.202:8880/287994003724/287994003724/31566
+#EXTINF:-1,RECORD RS HD
+http://163.172.103.202:8880/287994003724/287994003724/31567
+#EXTINF:-1,RECORD SP HD
+http://163.172.103.202:8880/287994003724/287994003724/31568
+#EXTINF:-1,RECORD¹
+http://163.172.103.202:8880/287994003724/287994003724/31569
+#EXTINF:-1,TV EVANGELIZAR
+http://163.172.103.202:8880/287994003724/287994003724/31570
+#EXTINF:-1,CANCAO NOVA
+http://163.172.103.202:8880/287994003724/287994003724/31571
+#EXTINF:-1,GOSPEL MOVIE TV
+http://163.172.103.202:8880/287994003724/287994003724/31572
+#EXTINF:-1,NOVO TEMPO
+http://163.172.103.202:8880/287994003724/287994003724/31573
+#EXTINF:-1,REDE GENISIS FHULLD
+http://163.172.103.202:8880/287994003724/287994003724/31574
+#EXTINF:-1,REDE GOSPEL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31575
+#EXTINF:-1,REDE SUPER FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31576
+#EXTINF:-1,REDE VIDA
+http://163.172.103.202:8880/287994003724/287994003724/31577
+#EXTINF:-1,RIT FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31578
+#EXTINF:-1,TV APARECIDA LIVRE
+http://163.172.103.202:8880/287994003724/287994003724/31579
+#EXTINF:-1,TV GOSPEL CEARÁ
+http://163.172.103.202:8880/287994003724/287994003724/31580
+#EXTINF:-1,CBTV Now
+http://163.172.103.202:8880/287994003724/287994003724/31581
+#EXTINF:-1,TELECINE ACTION FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31582
+#EXTINF:-1,TELECINE ACTION HD
+http://163.172.103.202:8880/287994003724/287994003724/31583
+#EXTINF:-1,TELECINE CULT FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31584
+#EXTINF:-1,TELECINE CULT HD
+http://163.172.103.202:8880/287994003724/287994003724/31585
+#EXTINF:-1,TELECINE CULT HD
+http://163.172.103.202:8880/287994003724/287994003724/31586
+#EXTINF:-1,TELECINE FUN FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31587
+#EXTINF:-1,TELECINE FUN HD
+http://163.172.103.202:8880/287994003724/287994003724/31588
+#EXTINF:-1,TELECINE PIPOCA FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31589
+#EXTINF:-1,TELECINE PIPOCA HD
+http://163.172.103.202:8880/287994003724/287994003724/31590
+#EXTINF:-1,TELECINE PREMIUM FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31591
+#EXTINF:-1,TELECINE PREMIUM HD
+http://163.172.103.202:8880/287994003724/287994003724/31592
+#EXTINF:-1,TELECINE TOUCH FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31593
+#EXTINF:-1,TELECINE TOUCH HD
+http://163.172.103.202:8880/287994003724/287994003724/31594
+#EXTINF:-1,Arte 1 FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31595
+#EXTINF:-1,BIS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31596
+#EXTINF:-1,BIS HD
+http://163.172.103.202:8880/287994003724/287994003724/31597
+#EXTINF:-1,CHEF TV FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31598
+#EXTINF:-1,COMEDY CENTRAL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31599
+#EXTINF:-1,COMEDY CENTRAL HD
+http://163.172.103.202:8880/287994003724/287994003724/31600
+#EXTINF:-1,CURTA! FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31601
+#EXTINF:-1,CURTA! HD*
+http://163.172.103.202:8880/287994003724/287994003724/31602
+#EXTINF:-1,DOG TV HD
+http://163.172.103.202:8880/287994003724/287994003724/31603
+#EXTINF:-1,E! FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31604
+#EXTINF:-1,E! HD
+http://163.172.103.202:8880/287994003724/287994003724/31605
+#EXTINF:-1,FOOD NETWORK FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31606
+#EXTINF:-1,FOOD NETWORK HD
+http://163.172.103.202:8880/287994003724/287994003724/31607
+#EXTINF:-1,GNT FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31608
+#EXTINF:-1,GNT HD
+http://163.172.103.202:8880/287994003724/287994003724/31609
+#EXTINF:-1,ISAT FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31610
+#EXTINF:-1,LIFETIME FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31611
+#EXTINF:-1,LIFETIME HD
+http://163.172.103.202:8880/287994003724/287994003724/31612
+#EXTINF:-1,MAIS GLOBOSAT
+http://163.172.103.202:8880/287994003724/287994003724/31613
+#EXTINF:-1,MAIS GLOBOSAT FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31614
+#EXTINF:-1,MTV FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31615
+#EXTINF:-1,MTV HD
+http://163.172.103.202:8880/287994003724/287994003724/31616
+#EXTINF:-1,MULTISHOW FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31617
+#EXTINF:-1,MULTSHOW HD
+http://163.172.103.202:8880/287994003724/287994003724/31618
+#EXTINF:-1,MUSIC BOX BRASIL FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31619
+#EXTINF:-1,PLAY TV FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31620
+#EXTINF:-1,PRIME BOX BRASIL FULL HD
+http://163.172.103.202:8880/287994003724/287994003724/31621
+#EXTINF:-1,SHOPTIME HD
+http://163.172.103.202:8880/287994003724/287994003724/31622
+#EXTINF:-1,STAR LIFE FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31623
+#EXTINF:-1,STAR LIFE HD
+http://163.172.103.202:8880/287994003724/287994003724/31624
+#EXTINF:-1,TERRA VIVA HD
+http://163.172.103.202:8880/287994003724/287994003724/31625
+#EXTINF:-1,TRU TV FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31626
+#EXTINF:-1,TRUTV HD
+http://163.172.103.202:8880/287994003724/287994003724/31627
+#EXTINF:-1,VH1 HD
+http://163.172.103.202:8880/287994003724/287994003724/31628
+#EXTINF:-1,VH1 MEGA HITS FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31629
+#EXTINF:-1,VIVA FULLHD
+http://163.172.103.202:8880/287994003724/287994003724/31630
+#EXTINF:-1,VIVA HD
+http://163.172.103.202:8880/287994003724/287994003724/31631
+#EXTINF:-1,THE BIG BANG THEORY
+http://163.172.103.202:8880/287994003724/287994003724/31632
+#EXTINF:-1,Tom & Jerry
+http://163.172.103.202:8880/287994003724/287994003724/31633
+#EXTINF:-1,3 ESPIÃS DEMAIS
+http://163.172.103.202:8880/287994003724/287994003724/31634
+#EXTINF:-1,3 PALAVRINHAS
+http://163.172.103.202:8880/287994003724/287994003724/31635
+#EXTINF:-1,A TURMA DO ZÉ COLMÉIA
+http://163.172.103.202:8880/287994003724/287994003724/31636
+#EXTINF:-1,A PANTERA COR-DE-ROSA
+http://163.172.103.202:8880/287994003724/287994003724/31637
+#EXTINF:-1,A PEQUENA SEREIA
+http://163.172.103.202:8880/287994003724/287994003724/31638
+#EXTINF:-1,A PEQUENA SEREIA
+http://163.172.103.202:8880/287994003724/287994003724/31639
+#EXTINF:-1,A TURMA DO MANDA CHUVA
+http://163.172.103.202:8880/287994003724/287994003724/31640
+#EXTINF:-1,A VACA E O FRANGO
+http://163.172.103.202:8880/287994003724/287994003724/31641
+#EXTINF:-1,ALADDIN
+http://163.172.103.202:8880/287994003724/287994003724/31642
+#EXTINF:-1,ALF, O ETEIMOSO
+http://163.172.103.202:8880/287994003724/287994003724/31643
+#EXTINF:-1,ANIMANIACS
+http://163.172.103.202:8880/287994003724/287994003724/31644
+#EXTINF:-1,AS AVENTURAS DE JACKIE CHAN
+http://163.172.103.202:8880/287994003724/287994003724/31645
+#EXTINF:-1,AS AVENTURAS DE JACKIE CHAN
+http://163.172.103.202:8880/287994003724/287994003724/31646
+#EXTINF:-1,AS AVENTURAS DE TINTIM
+http://163.172.103.202:8880/287994003724/287994003724/31647
+#EXTINF:-1,AS MENINAS SUPERPODEROSAS
+http://163.172.103.202:8880/287994003724/287994003724/31648
+#EXTINF:-1,AS TARTARUGAS NINJAS
+http://163.172.103.202:8880/287994003724/287994003724/31649
+#EXTINF:-1,BABY LOONEY TUNES
+http://163.172.103.202:8880/287994003724/287994003724/31650
+#EXTINF:-1,BABY LOONEY TUNES
+http://163.172.103.202:8880/287994003724/287994003724/31651
+#EXTINF:-1,BATMAN - SÉRIE ANIMADA
+http://163.172.103.202:8880/287994003724/287994003724/31652
+#EXTINF:-1,BEN 10
+http://163.172.103.202:8880/287994003724/287994003724/31653
+#EXTINF:-1,BEN 10 (2005)
+http://163.172.103.202:8880/287994003724/287994003724/31654
+#EXTINF:-1,BEN 10 OMNIVERSE
+http://163.172.103.202:8880/287994003724/287994003724/31655
+#EXTINF:-1,BIBO PAI E BOBI FILHO
+http://163.172.103.202:8880/287994003724/287994003724/31656
+#EXTINF:-1,BANANAS DE PIJAMAS
+http://163.172.103.202:8880/287994003724/287994003724/31657
+#EXTINF:-1,OS THUNDERMANS
+http://163.172.103.202:8880/287994003724/287994003724/31658
+#EXTINF:-1,BLACK KAMEN RIDER
+http://163.172.103.202:8880/287994003724/287994003724/31659
+#EXTINF:-1,BOB ESPONJA
+http://163.172.103.202:8880/287994003724/287994003724/31660
+#EXTINF:-1,BOB ZOOM
+http://163.172.103.202:8880/287994003724/287994003724/31661
+#EXTINF:-1,AS MENINAS SUPER PODEROSAS
+http://163.172.103.202:8880/287994003724/287994003724/31662
+#EXTINF:-1,BREAKING BAD ¹
+http://163.172.103.202:8880/287994003724/287994003724/31663
+#EXTINF:-1,LULUZINHA
+http://163.172.103.202:8880/287994003724/287994003724/31664
+#EXTINF:-1,CARANGOS E MOTOCAS
+http://163.172.103.202:8880/287994003724/287994003724/31665
+#EXTINF:-1,CASA DO MICKEY
+http://163.172.103.202:8880/287994003724/287994003724/31666
+#EXTINF:-1,SCOOBY DOO
+http://163.172.103.202:8880/287994003724/287994003724/31667
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS
+http://163.172.103.202:8880/287994003724/287994003724/31668
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE ASGARD
+http://163.172.103.202:8880/287994003724/287994003724/31669
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE HADES
+http://163.172.103.202:8880/287994003724/287994003724/31670
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON
+http://163.172.103.202:8880/287994003724/287994003724/31671
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO
+http://163.172.103.202:8880/287994003724/287994003724/31672
+#EXTINF:-1,CAVALO DE FOGO
+http://163.172.103.202:8880/287994003724/287994003724/31673
+#EXTINF:-1,CAVERNA DO DRAGÃO
+http://163.172.103.202:8880/287994003724/287994003724/31674
+#EXTINF:-1,CHAPOLIN
+http://163.172.103.202:8880/287994003724/287994003724/31675
+#EXTINF:-1,CHAVES
+http://163.172.103.202:8880/287994003724/287994003724/31676
+#EXTINF:-1,CHAVES DESENHO
+http://163.172.103.202:8880/287994003724/287994003724/31677
+#EXTINF:-1,Os Padrinhos Mágicos
+http://163.172.103.202:8880/287994003724/287994003724/31678
+#EXTINF:-1,COMÉDIA SELVAGEM
+http://163.172.103.202:8880/287994003724/287994003724/31679
+#EXTINF:-1,CORAGEM CAO COVARDE
+http://163.172.103.202:8880/287994003724/287994003724/31680
+#EXTINF:-1,DE VOLTA PARA O FUTURO
+http://163.172.103.202:8880/287994003724/287994003724/31681
+#EXTINF:-1,BORUTO
+http://163.172.103.202:8880/287994003724/287994003724/31682
+#EXTINF:-1,DESENHOS BÍBLICOS
+http://163.172.103.202:8880/287994003724/287994003724/31683
+#EXTINF:-1,DOIS HOMENS E MEIO
+http://163.172.103.202:8880/287994003724/287994003724/31684
+#EXTINF:-1,SÍTIO DO PICA-PAU AMARELO
+http://163.172.103.202:8880/287994003724/287994003724/31685
+#EXTINF:-1,DRAGON BALL - SAGA MAJIN BOO
+http://163.172.103.202:8880/287994003724/287994003724/31686
+#EXTINF:-1,DRAGON BALL GT
+http://163.172.103.202:8880/287994003724/287994003724/31687
+#EXTINF:-1,DRAGON BALL SUPER¹
+http://163.172.103.202:8880/287994003724/287994003724/31688
+#EXTINF:-1,DRAGON BALL²
+http://163.172.103.202:8880/287994003724/287994003724/31689
+#EXTINF:-1,DRAKE E JOSH
+http://163.172.103.202:8880/287994003724/287994003724/31690
+#EXTINF:-1,DUCK DODGERS
+http://163.172.103.202:8880/287994003724/287994003724/31691
+#EXTINF:-1,DUCKTALES
+http://163.172.103.202:8880/287994003724/287994003724/31692
+#EXTINF:-1,ESPECIAL BABY
+http://163.172.103.202:8880/287994003724/287994003724/31693
+#EXTINF:-1,EU A PATROA E AS CRIANÇAS
+http://163.172.103.202:8880/287994003724/287994003724/31694
+#EXTINF:-1,EU SOU O MÁXIMO
+http://163.172.103.202:8880/287994003724/287994003724/31695
+#EXTINF:-1,FALCÃO AZUL E BIONICÃO
+http://163.172.103.202:8880/287994003724/287994003724/31696
+#EXTINF:-1,FAMILÍA DINOSSAUROS
+http://163.172.103.202:8880/287994003724/287994003724/31697
+#EXTINF:-1,FAMÍLIA DINOSSAUROS
+http://163.172.103.202:8880/287994003724/287994003724/31698
+#EXTINF:-1,FORMIGA ATOMICA
+http://163.172.103.202:8880/287994003724/287994003724/31699
+#EXTINF:-1,FUTURAMA
+http://163.172.103.202:8880/287994003724/287994003724/31700
+#EXTINF:-1,GALINHA PINTADINHA¹
+http://163.172.103.202:8880/287994003724/287994003724/31701
+#EXTINF:-1,GARFIELD
+http://163.172.103.202:8880/287994003724/287994003724/31702
+#EXTINF:-1,KIDS TV
+http://163.172.103.202:8880/287994003724/287994003724/31703
+#EXTINF:-1,GATO FELIX
+http://163.172.103.202:8880/287994003724/287994003724/31704
+#EXTINF:-1,X-MEN - WOLVERINE
+http://163.172.103.202:8880/287994003724/287994003724/31705
+#EXTINF:-1,HE-MAN
+http://163.172.103.202:8880/287994003724/287994003724/31706
+#EXTINF:-1,MICKEY MOUSE, PATO DONALD E TICO E TECO
+http://163.172.103.202:8880/287994003724/287994003724/31707
+#EXTINF:-1,ICARLY
+http://163.172.103.202:8880/287994003724/287994003724/31708
+#EXTINF:-1,IRMÃO DE JOREL
+http://163.172.103.202:8880/287994003724/287994003724/31709
+#EXTINF:-1,JIRAIYA - O INCRÍVEL NINJA
+http://163.172.103.202:8880/287994003724/287994003724/31710
+#EXTINF:-1,JOHNNY BRAVO
+http://163.172.103.202:8880/287994003724/287994003724/31711
+#EXTINF:-1,JOHNNY TEST
+http://163.172.103.202:8880/287994003724/287994003724/31712
+#EXTINF:-1,CARTOON GOSPEL
+http://163.172.103.202:8880/287994003724/287994003724/31713
+#EXTINF:-1,POKEMON
+http://163.172.103.202:8880/287994003724/287994003724/31714
+#EXTINF:-1,LEÃO DA MONTANHA
+http://163.172.103.202:8880/287994003724/287994003724/31715
+#EXTINF:-1,LIGA DA JUSTIÇA
+http://163.172.103.202:8880/287994003724/287994003724/31716
+#EXTINF:-1,LIGA DA JUSTIÇA
+http://163.172.103.202:8880/287994003724/287994003724/31717
+#EXTINF:-1,LIGA DOS SUPER MALVADOS
+http://163.172.103.202:8880/287994003724/287994003724/31718
+#EXTINF:-1,LIGEIRINHO
+http://163.172.103.202:8880/287994003724/287994003724/31719
+#EXTINF:-1,LOONEY TUNES
+http://163.172.103.202:8880/287994003724/287994003724/31720
+#EXTINF:-1,LOONEY TUNES
+http://163.172.103.202:8880/287994003724/287994003724/31721
+#EXTINF:-1,BIBO PAI, BOB FILHO
+http://163.172.103.202:8880/287994003724/287994003724/31722
+#EXTINF:-1,MARINHEIRO POPEYE
+http://163.172.103.202:8880/287994003724/287994003724/31723
+#EXTINF:-1,MASHA E O URSO
+http://163.172.103.202:8880/287994003724/287994003724/31724
+#EXTINF:-1,MASTERCHEF
+http://163.172.103.202:8880/287994003724/287994003724/31725
+#EXTINF:-1,MOSQUITO, MOSQUETE e MOSCARDO
+http://163.172.103.202:8880/287994003724/287994003724/31726
+#EXTINF:-1,MUNDO BITA
+http://163.172.103.202:8880/287994003724/287994003724/31727
+#EXTINF:-1,NARUTO
+http://163.172.103.202:8880/287994003724/287994003724/31728
+#EXTINF:-1,NARUTO SHIPPUDEN
+http://163.172.103.202:8880/287994003724/287994003724/31729
+#EXTINF:-1,O FANTASTICO MUNDO DE BOBBY
+http://163.172.103.202:8880/287994003724/287994003724/31730
+#EXTINF:-1,O INCRÍVEL MUNDO DE GUMBALL
+http://163.172.103.202:8880/287994003724/287994003724/31731
+#EXTINF:-1,O MUNDO DE BITA
+http://163.172.103.202:8880/287994003724/287994003724/31732
+#EXTINF:-1,SAKURA CARDS CAPTORS - ANIME
+http://163.172.103.202:8880/287994003724/287994003724/31733
+#EXTINF:-1,OS CAÇA FANTASMAS
+http://163.172.103.202:8880/287994003724/287994003724/31734
+#EXTINF:-1,OS FLINTSTONES
+http://163.172.103.202:8880/287994003724/287994003724/31735
+#EXTINF:-1,OS FLINTSTONES
+http://163.172.103.202:8880/287994003724/287994003724/31736
+#EXTINF:-1,OS HERCULÓIDES
+http://163.172.103.202:8880/287994003724/287994003724/31737
+#EXTINF:-1,OS JETSONS
+http://163.172.103.202:8880/287994003724/287994003724/31738
+#EXTINF:-1,OS JETSONS
+http://163.172.103.202:8880/287994003724/287994003724/31739
+#EXTINF:-1,OS JOVENS TITÃS EM AÇÃO
+http://163.172.103.202:8880/287994003724/287994003724/31740
+#EXTINF:-1,OS SIMPSONS
+http://163.172.103.202:8880/287994003724/287994003724/31741
+#EXTINF:-1,OS SMURFS
+http://163.172.103.202:8880/287994003724/287994003724/31742
+#EXTINF:-1,X-MEN EVOLUTION
+http://163.172.103.202:8880/287994003724/287994003724/31743
+#EXTINF:-1,PADRINHOS MÁGICOS
+http://163.172.103.202:8880/287994003724/287994003724/31744
+#EXTINF:-1,PAPA-LÉGUAS
+http://163.172.103.202:8880/287994003724/287994003724/31745
+#EXTINF:-1,PATRULHA CANINA 24H
+http://163.172.103.202:8880/287994003724/287994003724/31746
+#EXTINF:-1,PEPPA PIG
+http://163.172.103.202:8880/287994003724/287994003724/31747
+#EXTINF:-1,A CASA DO MICKEY MOUSE
+http://163.172.103.202:8880/287994003724/287994003724/31748
+#EXTINF:-1,PICA-PAU
+http://163.172.103.202:8880/287994003724/287994003724/31749
+#EXTINF:-1,PINK E O CÉREBRO
+http://163.172.103.202:8880/287994003724/287994003724/31750
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - ÔMEGA
+http://163.172.103.202:8880/287994003724/287994003724/31751
+#EXTINF:-1,PODEROSO CHEFINHO
+http://163.172.103.202:8880/287994003724/287994003724/31752
+#EXTINF:-1,POPEYE
+http://163.172.103.202:8880/287994003724/287994003724/31753
+#EXTINF:-1,POWER RANGERS
+http://163.172.103.202:8880/287994003724/287994003724/31754
+#EXTINF:-1,SCOOBY DOO!
+http://163.172.103.202:8880/287994003724/287994003724/31755
+#EXTINF:-1,SHE-RA
+http://163.172.103.202:8880/287994003724/287994003724/31756
+#EXTINF:-1,DIGIMON
+http://163.172.103.202:8880/287994003724/287994003724/31757
+#EXTINF:-1,SOBRENATURAL
+http://163.172.103.202:8880/287994003724/287994003724/31758
+#EXTINF:-1,SPEED RACER 24H
+http://163.172.103.202:8880/287994003724/287994003724/31759
+#EXTINF:-1,STAND-UP
+http://163.172.103.202:8880/287994003724/287994003724/31760
+#EXTINF:-1,STREET FIGTHER
+http://163.172.103.202:8880/287994003724/287994003724/31761
+#EXTINF:-1,SUPER AMIGOS
+http://163.172.103.202:8880/287994003724/287994003724/31762
+#EXTINF:-1,SUPER CHOQUE
+http://163.172.103.202:8880/287994003724/287994003724/31763
+#EXTINF:-1,THUNDERCATS
+http://163.172.103.202:8880/287994003724/287994003724/31764
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS
+http://163.172.103.202:8880/287994003724/287994003724/31765
+#EXTINF:-1,TOMA LA DA CÁ
+http://163.172.103.202:8880/287994003724/287994003724/31766
+#EXTINF:-1,TURMA DO MANDA-CHUVA
+http://163.172.103.202:8880/287994003724/287994003724/31767
+#EXTINF:-1,FÁBULAS DA DISNEY
+http://163.172.103.202:8880/287994003724/287994003724/31768
+#EXTINF:-1,UM MALUCO NO PEDAÇO
+http://163.172.103.202:8880/287994003724/287994003724/31769
+#EXTINF:-1,URSINHOS CARINHOSOS
+http://163.172.103.202:8880/287994003724/287994003724/31770
+#EXTINF:-1,PIRATAS DO ESPAÇO
+http://163.172.103.202:8880/287994003724/287994003724/31771
+#EXTINF:-1,VAI QUE COLA
+http://163.172.103.202:8880/287994003724/287994003724/31772
+#EXTINF:-1,X-MAN
+http://163.172.103.202:8880/287994003724/287994003724/31773
+#EXTINF:-1,X-MEN
+http://163.172.103.202:8880/287994003724/287994003724/31774
+#EXTINF:-1,YU-GI-OH
+http://163.172.103.202:8880/287994003724/287994003724/31775
